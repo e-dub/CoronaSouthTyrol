@@ -5,4 +5,4 @@
 
 <p align=center><img width="100%" src="ModelDailyFatalitiesSouth Tyrol.png"></p>
 
-Source: http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp
+Source for data: http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp
