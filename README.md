@@ -6,13 +6,19 @@
 <p align=center><img width="100%" src="ModelDailyFatalitiesSouth Tyrol.png"></p>
 
 
-Basis data:
+### Basis data:
+
 Number of ICU beds = 90 [[4]](#4).
+
 Population = 533439 [[2]](#2).
 
-Assumptions:
+
+### Assumptions:
+
 Exponential growth
+
 Serial interval = 4 days [[3]](#3).
+
 Calculation of R4 and R7 [[3]](#3).
 
 ## Sources
