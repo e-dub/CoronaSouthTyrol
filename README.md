@@ -12,6 +12,8 @@ Number of ICU beds = 90 [[4]](#4).
 
 Population = 533439 [[2]](#2).
 
+Corona values in South Tyrol [[1]](#1).
+
 
 ### Assumptions:
 
