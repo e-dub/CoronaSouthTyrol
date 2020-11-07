@@ -8,7 +8,7 @@ Mathematical approximation of data for the second wave of COVID-19 in South Tyro
 
 <p align=center><img width="100%" src="TestPositivitySouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="numberIntensiveTherarpySouthTyrol.svg"></p>
+<p align=center><img width="100%" src="numberIntensiveTherapySouthTyrol.svg"></p>
 
 
 ### Basis data:
