@@ -1,4 +1,4 @@
-# Corona Data for South Tyrol
+# Corona data model and forecast for South Tyrol
 
 <p align=center><img width="100%" src="ModelDailyCasesSouth Tyrol.png"></p>
 
