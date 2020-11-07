@@ -22,7 +22,7 @@ Corona values in South Tyrol [[1]](#1),[[5]](#5).
 
 ### Assumptions:
 
-Exponential growt of the form <img src="https://latex.codecogs.com/gif.latex? y_0 e^{k t} " /> 
+Exponential growth
 
 Serial interval = 4 days [[3]](#3).
 
