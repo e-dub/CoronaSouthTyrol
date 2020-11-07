@@ -28,7 +28,7 @@ Serial interval = 4 days [[3]](#3).
 
 Fatality interval (between test and fatality) = 4 weeks.
 
-Calculation of R4 and R7 see [[3]](#3).
+Calculation of R4 and R7, see [[3]](#3).
 
 ## Sources
 <a id="1">[1]</a> 
