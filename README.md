@@ -1,14 +1,14 @@
-# Corona data model and forecast for South Tyrol
+# Corona data, model and forecast for South Tyrol
 
 Mathematical approximation of data for the second wave of COVID-19 in South Tyrol starting on 6 October 2020. Exponetial growth and a four day serial interval are assumed.
 
 <p align=center><img width="100%" src="ModelDailyCasesSouth Tyrol.svg"></p>
 
-
 <p align=center><img width="100%" src="ModelDailyFatalitiesSouth Tyrol.svg"></p>
 
-
 <p align=center><img width="100%" src="ModelDailyPosSouth Tyrol.svg"></p>
+
+<p align=center><img width="100%" src="ModelDailyICUSouth Tyrol.svg"></p>
 
 
 ### Basis data:
