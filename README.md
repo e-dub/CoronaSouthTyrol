@@ -22,7 +22,7 @@ Corona values in South Tyrol [[1]](#1),[[5]](#5).
 
 ### Assumptions:
 
-Exponential growth
+Exponential growth.
 
 Serial interval = 4 days [[3]](#3).
 
