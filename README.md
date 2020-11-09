@@ -12,7 +12,6 @@ Mathematical approximation of data for the second wave of COVID-19 in South Tyro
 
 
 ### Basis data:
-
 Number of ICU beds = 90 [[4]](#4).
 
 Population = 533439 [[2]](#2).
@@ -21,7 +20,6 @@ Corona values in South Tyrol [[1]](#1),[[5]](#5).
 
 
 ### Assumptions:
-
 Exponential growth.
 
 Serial interval = 4 days [[3]](#3).
