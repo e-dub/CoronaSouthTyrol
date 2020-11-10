@@ -1,6 +1,6 @@
-# Corona data, model and forecast for Munich, Germany
+# Corona data, model and forecast for Italy
 
-Mathematical approximation of data for the second wave of COVID-19 in Germany with data starting on 6 October 2020. Exponetial growth and a serial interval of four days are assumed.
+Mathematical approximation of data for the second wave of COVID-19 in Italy with data starting on 6 October 2020. Exponetial growth and a serial interval of four days are assumed.
 
 <p align=center><img width="100%" src="fig/ModelDailyCasesItaly.svg"></p>
 

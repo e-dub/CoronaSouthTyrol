@@ -1,4 +1,4 @@
-# Corona data, model and forecast for Munich, Germany
+# Corona data, model and forecast for Germany
 
 Mathematical approximation of data for the second wave of COVID-19 in Germany with data starting on 6 October 2020. Exponetial growth and a serial interval of four days are assumed.
 

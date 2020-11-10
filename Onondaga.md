@@ -8,7 +8,7 @@ Mathematical approximation of data for the second wave of COVID-19 in Onondaga C
 
 
 ### Basis data:
-Corona values in Onondaga County [[1]](#1).
+Corona values in Onondaga County [[1]](#1), [[2]](#2).
 
 ### Assumptions:
 Exponential growth.
