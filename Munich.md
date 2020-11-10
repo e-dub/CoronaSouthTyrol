@@ -2,9 +2,9 @@
 
 Mathematical approximation of data for the second wave of COVID-19 in Munich with data starting on 6 October 2020. Exponetial growth and a serial interval of four days are assumed.
 
-<p align=center><img width="100%" src="ModelDailyCasesMunich.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyCasesMunich.svg"></p>
 
-<p align=center><img width="100%" src="ModelDailyFatalitiesMunich.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyFatalitiesMunich.svg"></p>
 
 
 ### Basis data:

@@ -2,9 +2,9 @@
 
 Mathematical approximation of data for the second wave of COVID-19 in Onondaga County with data starting on 6 October 2020. Exponetial growth and a serial interval of four days are assumed.
 
-<p align=center><img width="100%" src="ModelDailyCasesOnondagaCounty.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyCasesOnondagaCounty.svg"></p>
 
-<p align=center><img width="100%" src="ModelDailyFatalitiesOnondagaCounty.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyFatalitiesOnondagaCounty.svg"></p>
 
 
 ### Basis data:

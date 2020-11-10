@@ -2,13 +2,13 @@
 
 Mathematical approximation of data for the second wave of COVID-19 in South Tyrol with data starting on 6 October 2020. Exponetial growth and a serial interval of four days are assumed.
 
-<p align=center><img width="100%" src="ModelDailyCasesSouthTyrol.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyCasesSouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="ModelDailyFatalitiesSouthTyrol.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="TestPositivitySouthTyrol.svg"></p>
+<p align=center><img width="100%" src="fig/TestPositivitySouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="numberIntensiveTherapySouthTyrol.svg"></p>
+<p align=center><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg"></p>
 
 
 ### Basis data:
