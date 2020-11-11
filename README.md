@@ -10,6 +10,8 @@ Mathematical approximation of data for the second wave of COVID-19 in South Tyro
 
 <p align=center><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg"></p>
 
+<p align=center><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg"></p>
+
 
 ### Basis data:
 Number of ICU beds = 90 [[4]](#4).
@@ -29,18 +31,18 @@ Fatality interval (between test and fatality) = 4 weeks.
 Calculation of R4 and R7, see [[3]](#3).
 
 ## Sources
-<a id="1">[1]</a> 
+<a id="1">[1]</a>
 http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp
 
-<a id="2">[2]</a> 
+<a id="2">[2]</a>
 https://astat.provinz.bz.it/de/bevoelkerung.asp
 
-<a id="3">[3]</a> 
+<a id="3">[3]</a>
 https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile
 
-<a id="4">[4]</a> 
+<a id="4">[4]</a>
 https://www.stol.it/artikel/chronik/die-angst-vor-der-naechsten-corona-welle
 
-<a id="5">[5]</a> 
+<a id="5">[5]</a>
 http://api.corona-bz.simedia.cloud/
 
