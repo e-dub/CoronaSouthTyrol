@@ -2,9 +2,9 @@
 
 Mathematical approximation of data for the second wave of COVID-19 in Germany with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
 
-<p align=center><img width="100%" src="ModelDailyCasesGermany.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyCasesGermany.svg"></p>
 
-<p align=center><img width="100%" src="ModelDailyFatalitiesGermany.svg"></p>
+<p align=center><img width="100%" src="fig/ModelDailyFatalitiesGermany.svg"></p>
 
 
 ### Basis data:
