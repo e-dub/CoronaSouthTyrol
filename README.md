@@ -12,6 +12,8 @@ Mathematical approximation of data for the second wave of COVID-19 in South Tyro
 
 <p align=center><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg"></p>
 
+<p align=center><img width="100%" src="fig/HospitalizationRateSouthTyrol.svg"></p>
+
 
 
 ### Basis data:
@@ -31,11 +33,17 @@ Fatality interval (between test and fatality) = 4 weeks.
 
 Calculation of R4 and R7, see [[3]](#3).
 
-Test positivity for an assumption of community spreading ([[6]](#6)).:\
+Assumptions for community spreading ([[6]](#6)).:\
+Testing positivity:\
  <2%: low incidence of community spreading,\
  <5%: moderate incidence of community spreading,\
  <20%: high incidence of community spreading,\
  \>20%: very high incidence of community spreading.
+Hospitalization rate:\
+ <5%: low incidence of community spreading,\
+ <10%: moderate incidence of community spreading,\
+ <30%: high incidence of community spreading,\
+ \>30%: very high incidence of community spreading.
 
 ## Sources
 <a id="1">[1]</a>
