@@ -31,6 +31,12 @@ Fatality interval (between test and fatality) = 4 weeks.
 
 Calculation of R4 and R7, see [[3]](#3).
 
+Test positivity for an assumption of community spreading ([[6]](#6)).:\
+<2%: low incidence of community spreading,
+<5%: moderate incidence of community spreading,
+<20%: high incidence of community spreading,
+>20%: very high incidence of community spreading.
+
 ## Sources
 <a id="1">[1]</a>
 http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp
@@ -46,4 +52,7 @@ https://www.stol.it/artikel/chronik/die-angst-vor-der-naechsten-corona-welle
 
 <a id="5">[5]</a>
 http://api.corona-bz.simedia.cloud/
+
+<a id="6">[6]</a>
+https://www.who.int/publications/i/item/considerations-in-adjusting-public-health-and-social-measures-in-the-context-of-covid-19-interim-guidance
 
