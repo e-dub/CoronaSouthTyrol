@@ -38,7 +38,7 @@ Testing positivity:\
  <2%: low incidence of community spreading,\
  <5%: moderate incidence of community spreading,\
  <20%: high incidence of community spreading,\
- \>20%: very high incidence of community spreading.
+ \>20%: very high incidence of community spreading.\
 Hospitalization rate:\
  <5%: low incidence of community spreading,\
  <10%: moderate incidence of community spreading,\
