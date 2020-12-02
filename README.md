@@ -2,23 +2,23 @@
 
 Mathematical approximation of data for the second wave of COVID-19 in South Tyrol with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
 
-<p align=center><img width="100%" src="fig/ModelDailyCasesSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/ModelDailyCasesSouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="fig/TestPositivitySouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/TestPositivitySouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="fig/TestingResponseWHOSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/TestingResponseWHOSouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="fig/CaseIncidenceWHOSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/CaseIncidenceWHOSouthTyrol.svg"></p>
 
-<p align=center><img width="100%" src="fig/MortalityWHOSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/MortalityWHOSouthTyrol.svg"></p>
 
-<p align=center><img width="75%" src="fig/FatalityRateSouthTyrol.svg"></p>
+<p align=left><img width="75%" src="fig/FatalityRateSouthTyrol.svg"></p>
 
 
 ### Basis data:
