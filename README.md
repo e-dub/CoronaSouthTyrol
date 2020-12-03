@@ -1,6 +1,8 @@
 # Corona data, model and forecast for South Tyrol
 
-Mathematical approximation of data for the second wave of COVID-19 in South Tyrol with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
+Mathematical approximation and data for the second wave of COVID-19 in South Tyrol with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
+
+### Second wave:
 
 <p align=left><img width="100%" src="fig/ModelDailyCasesSouthTyrol.svg"></p>
 
@@ -12,6 +14,9 @@ Mathematical approximation of data for the second wave of COVID-19 in South Tyro
 
 <p align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg"></p>
 
+
+### WHO indicators:
+
 <p align=left><img width="100%" src="fig/TestPositivitySouthTyrol.svg"></p>
 
 <p align=left><img width="100%" src="fig/TestingResponseWHOSouthTyrol.svg"></p>
@@ -20,7 +25,15 @@ Mathematical approximation of data for the second wave of COVID-19 in South Tyro
 
 <p align=left><img width="100%" src="fig/MortalityWHOSouthTyrol.svg"></p>
 
-<p align=left><img width="65%" src="fig/FatalityRateSouthTyrol.svg"></p>
+### All data:
+
+<p align=left><img width="100%" src="fig/currentlyPositiveTestedSouthTyrol.svg"></p>
+
+<p align=left><img width="100%" src="fig/positiveTestedSouthTyrol.svg"></p>
+
+<p align=left><img width="100%" src="fig/deceasedSouthTyrol.svg"></p>
+
+<p align=left><img width="100%" src="fig/FatalityRateSouthTyrol.svg"></p>
 
 
 ### Basis data:
