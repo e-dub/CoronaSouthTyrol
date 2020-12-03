@@ -36,6 +36,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
 <p align=left><img width="100%" src="fig/FatalityRateSouthTyrol.svg"></p>
 
 
+
 ### Basis data:
 Number of ICU beds = 90 [[4]](#4).
 
