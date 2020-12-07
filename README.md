@@ -27,13 +27,18 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
 
 ### All data:
 
-<p align=left><img width="100%" src="fig/currentlyPositiveTestedSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/currentlyPositiveTestedSouthTyrolAll.svg"></p>
 
-<p align=left><img width="100%" src="fig/positiveTestedSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/positiveTestedSouthTyrolAll.svg"></p>
 
-<p align=left><img width="100%" src="fig/deceasedSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/deceasedSouthTyrolAll.svg"></p>
 
-<p align=left><img width="100%" src="fig/FatalityRateSouthTyrol.svg"></p>
+<p align=left><img width="100%" src="fig/newDeceasedSouthTyrolAll.svg"></p>
+
+<p align=left><img width="100%" src="fig/FatalityRateSouthTyrolAll.svg"></p>
+
+<p align=left><img width="100%" src="fig/ICULoadSouthTyrolAll.svg"></p>
+
 
 
 
