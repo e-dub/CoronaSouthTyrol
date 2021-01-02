@@ -34,7 +34,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
 <iframe src="http/newPositiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="100%"
+    height=100px
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -43,6 +43,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
 <iframe src="http/positiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
+    height="auto"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
