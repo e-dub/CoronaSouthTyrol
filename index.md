@@ -1,37 +1,136 @@
-## Welcome to GitHub Pages
+# Corona data, model and forecast for South Tyrol
 
-You can use the [editor on GitHub](https://github.com/e-dub/CoronaSouthTyrol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mathematical approximation and data for the second wave of COVID-19 in South Tyrol with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Second wave:
 
-### Markdown
+<p align=left><img width="100%" src="fig/ModelDailyCasesSouthTyrol.svg"></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align=left><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg"></p>
 
-```markdown
-Syntax highlighted code block
+<p align=left><img width="100%" src="fig/numberHospitalizedPeopleSouthTyrol.svg"></p>
 
-# Header 1
-## Header 2
-### Header 3
+<p align=left><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg"></p>
 
-- Bulleted
-- List
+<p align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg"></p>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### WHO indicators:
 
-[Link](url) and ![Image](src)
-```
+<p align=left><img width="100%" src="fig/TestPositivitySouthTyrol.svg"></p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align=left><img width="100%" src="fig/TestingResponseWHOSouthTyrol.svg"></p>
 
-### Jekyll Themes
+<p align=left><img width="100%" src="fig/CaseIncidenceSouthTyrol.svg"></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/e-dub/CoronaSouthTyrol/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p align=left><img width="100%" src="fig/MortalityWHOSouthTyrol.svg"></p>
 
-### Support or Contact
+### All data:
+<embed type="text/html" src="http/currentlyPositiveTestedSouthTyrolAll.html" width="100%"></embed>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe src="http/newPositiveTestedSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="http/positiveTestedSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="http/deceasedSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="http/newDeceasedSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="http/FatalityRateSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="http/ICULoadSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="http/newNumberTestedPeopleSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
+### Basis data:
+Number of ICU beds = 90 [[4]](#4).
+
+Population = 533439 [[2]](#2).
+
+Corona values in South Tyrol [[1]](#1),[[5]](#5).
+
+
+### Assumptions:
+Exponential growth.
+
+Serial interval = 4 days [[3]](#3).
+
+Fatality interval (between test and fatality) = 4 weeks.
+
+Calculation of R4 and R7, see [[3]](#3).
+
+Assumptions for community spreading ([[6]](#6)).:\
+Testing positivity:\
+ <2%: low incidence of community spreading,\
+ <5%: moderate incidence of community spreading,\
+ <20%: high incidence of community spreading,\
+ \>20%: very high incidence of community spreading.\
+Hospitalization rate:\
+ <5%: low incidence of community spreading,\
+ <10%: moderate incidence of community spreading,\
+ <30%: high incidence of community spreading,\
+ \>30%: very high incidence of community spreading.
+
+## Sources
+<a id="1">[1]</a>
+http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp
+
+<a id="2">[2]</a>
+https://astat.provinz.bz.it/de/bevoelkerung.asp
+
+<a id="3">[3]</a>
+https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile
+
+<a id="4">[4]</a>
+https://www.stol.it/artikel/chronik/die-angst-vor-der-naechsten-corona-welle
+
+<a id="5">[5]</a>
+http://api.corona-bz.simedia.cloud/
+
+<a id="6">[6]</a>
+https://www.who.int/publications/i/item/considerations-in-adjusting-public-health-and-social-measures-in-the-context-of-covid-19-interim-guidance
+
+
