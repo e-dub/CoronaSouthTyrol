@@ -158,7 +158,7 @@ Hospitalization rate:\
 
 ## Sources
 <a id="1">[1]</a>
-<link href=http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp>
+[http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp]
 
 <a id="2">[2]</a>
 <link href="https://astat.provinz.bz.it/de/bevoelkerung.asp">
