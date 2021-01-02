@@ -1,4 +1,4 @@
-<e-dub.github.io/CoronaSouthTyrol/>
+<http://e-dub.github.io/CoronaSouthTyrol/>
 
 # Corona data, model and forecast for South Tyrol
 
