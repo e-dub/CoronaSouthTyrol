@@ -4,7 +4,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
 
 ### Second wave:
 
-<img src="fig/ModelDailyCasesSouthTyrol.svg" alt="hi" class="inline"/>
+<img src="http://github.com/e-dub/CoronaSouthTyrol/blob/main/fig/ModelDailyCasesSouthTyrol.svg">
 
 <p align=left><img width="100%" src="https://github.com/e-dub/CoronaSouthTyrol/fig/ModelDailyFatalitiesSouthTyrol.svg"></p>
 
