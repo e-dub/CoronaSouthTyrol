@@ -6,12 +6,12 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
 
 <img src="fig/CaseIncidenceSouthTyrol.svg">
 
-<img align=left><img width="100%" src="/fig/ModelDailyFatalitiesSouthTyrol.svg"></p>
+<img align=left><img width="100%" src="/fig/ModelDailyFatalitiesSouthTyrol.svg">
 
-<img align=left><img width="100%" src="/fig/numberHospitalizedPeopleSouthTyrol.svg"></p>
-<img align=left><img width="100%" src="/fig/numberIntensiveTherapySouthTyrol.svg"></p>
+<img align=left><img width="100%" src="/fig/numberHospitalizedPeopleSouthTyrol.svg">
+<img align=left><img width="100%" src="/fig/numberIntensiveTherapySouthTyrol.svg">
 
-<img align=left><img width="100%" src="/fig/newNumberTestedPeopleSouthTyrol.svg"></p>
+<img align=left><img width="100%" src="/fig/newNumberTestedPeopleSouthTyrol.svg">
 
 
 ### WHO indicators:
