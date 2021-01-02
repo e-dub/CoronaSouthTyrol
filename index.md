@@ -158,19 +158,19 @@ Hospitalization rate:\
 
 ## Sources
 <a id="1">[1]</a>
-<a href="http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp" /a>
+<link href="http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp">
 
 <a id="2">[2]</a>
-<a href="https://astat.provinz.bz.it/de/bevoelkerung.asp" /a>
+<link href="https://astat.provinz.bz.it/de/bevoelkerung.asp">
 
 <a id="3">[3]</a>
-<a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile" /a>
+<link href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile">
 
 <a id="4">[4]</a>
-<a href="https://www.stol.it/artikel/chronik/die-angst-vor-der-naechsten-corona-welle" /a>
+<link href="https://www.stol.it/artikel/chronik/die-angst-vor-der-naechsten-corona-welle">
 
 <a id="5">[5]</a>
-<a href="http://api.corona-bz.simedia.cloud/" /a>
+<link href="http://api.corona-bz.simedia.cloud/">
 
 <a id="6">[6]</a>
-<a href="https://www.who.int/publications/i/item/considerations-in-adjusting-public-health-and-social-measures-in-the-context-of-covid-19-interim-guidance" /a>
+<link href="https://www.who.int/publications/i/item/considerations-in-adjusting-public-health-and-social-measures-in-the-context-of-covid-19-interim-guidance">
