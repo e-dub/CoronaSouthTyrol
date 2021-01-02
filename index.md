@@ -161,10 +161,10 @@ Hospitalization rate:\
 [http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp]
 
 <a id="2">[2]</a>
-<link href="https://astat.provinz.bz.it/de/bevoelkerung.asp">
+https://astat.provinz.bz.it/de/bevoelkerung.asp
 
 <a id="3">[3]</a>
-<link href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile">
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile>
 
 <a id="4">[4]</a>
 <link href="https://www.stol.it/artikel/chronik/die-angst-vor-der-naechsten-corona-welle">
