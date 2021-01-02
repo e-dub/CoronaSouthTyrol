@@ -6,32 +6,32 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
 
 <img src="fig/CaseIncidenceSouthTyrol.svg">
 
-<img align=left><img width="100%" src="/fig/ModelDailyFatalitiesSouthTyrol.svg">
+<img align=left><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg">
 
-<img align=left><img width="100%" src="/fig/numberHospitalizedPeopleSouthTyrol.svg">
+<img align=left><img width="100%" src="fig/numberHospitalizedPeopleSouthTyrol.svg">
 
-<img align=left><img width="100%" src="/fig/numberIntensiveTherapySouthTyrol.svg">
+<img align=left><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg">
 
-<img align=left><img width="100%" src="/fig/newNumberTestedPeopleSouthTyrol.svg">
+<img align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg">
 
 
 ### WHO indicators:
 
-<img align=left><img width="100%" src="https://github.com/e-dub/CoronaSouthTyrol/fig/TestPositivitySouthTyrol.svg">
+<img align=left><img width="100%" src="fig/TestPositivitySouthTyrol.svg">
 
-<img align=left><img width="100%" src="https://github.com/e-dub/CoronaSouthTyrol/fig/TestingResponseWHOSouthTyrol.svg">
+<img align=left><img width="100%" src="fig/TestingResponseWHOSouthTyrol.svg">
 
-<img  align=left><img width="100%" src="https://github.com/e-dub/CoronaSouthTyrol/fig/CaseIncidenceSouthTyrol.svg">
+<img  align=left><img width="100%" src="fig/CaseIncidenceSouthTyrol.svg">
 
-<img  align=left><img width="100%" src="https://github.com/e-dub/CoronaSouthTyrol/fig/MortalityWHOSouthTyrol.svg">
+<img  align=left><img width="100%" src="fig/MortalityWHOSouthTyrol.svg">
 
 
 ### All data:
-<embed type="text/html" src="/http/currentlyPositiveTestedSouthTyrolAll.html" width="100%">
+<embed type="text/html" src="http/currentlyPositiveTestedSouthTyrolAll.html" width="100%">
 
 <embed type="text/html" src="http/currentlyPositiveTestedSouthTyrolAll.html" width="100%">
 
-<iframe src="/http/newPositiveTestedSouthTyrolAll.html"
+<iframe src="http/newPositiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
@@ -39,7 +39,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
     frameborder="0">
 </iframe>
 
-<iframe src="/http/positiveTestedSouthTyrolAll.html"
+<iframe src="http/positiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
@@ -47,7 +47,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
     frameborder="0">
 </iframe>
 
-<iframe src="/http/deceasedSouthTyrolAll.html"
+<iframe src="http/deceasedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
@@ -55,7 +55,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
     frameborder="0">
 </iframe>
 
-<iframe src="/http/newDeceasedSouthTyrolAll.html"
+<iframe src="http/newDeceasedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
@@ -63,7 +63,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
     frameborder="0">
 </iframe>
 
-<iframe src="/http/FatalityRateSouthTyrolAll.html"
+<iframe src="http/FatalityRateSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
@@ -71,7 +71,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
     frameborder="0">
 </iframe>
 
-<iframe src="/http/ICULoadSouthTyrolAll.html"
+<iframe src="http/ICULoadSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
@@ -79,7 +79,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
     frameborder="0">
 </iframe>
 
-<iframe src="/http/newNumberTestedPeopleSouthTyrolAll.html"
+<iframe src="http/newNumberTestedPeopleSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
