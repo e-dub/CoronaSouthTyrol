@@ -60,7 +60,7 @@ Mathematical approximation and data for the second wave of COVID-19 in South Tyr
     frameborder="0">
 </iframe>
 
-<iframe src="http/FatalityRateSouthTyrolAll.html"
+<iframe src="https://github.com/e-dub/CoronaSouthTyrol/blob/main/http/FatalityRateSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     scrolling="no"
