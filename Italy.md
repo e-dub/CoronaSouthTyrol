@@ -1,13 +1,39 @@
 # Italy
 
-Mathematical approximation of data for the second wave of COVID-19 in Italy with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
+Mathematical approximation of data for the second wave of COVID-19 in Italy.  Second-wave data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed
+
+### Second wave:
 
 <p align=center><img width="100%" src="fig/ModelDailyCasesItaly.svg"></p>
 
 <p align=center><img width="100%" src="fig/ModelDailyFatalitiesItaly.svg"></p>
 
+<img align=left><img width="100%" src="fig/numberHospitalizedPeopleItaly.svg">
+
+<img align=left><img width="100%" src="fig/numberIntensiveTherapyItaly.svg">
+
+
+
 
 ### WHO indicators:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <iframe src="html/CaseIncidenceItalyAll.html"
     sandbox="allow-same-origin allow-scripts"
@@ -18,7 +44,7 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy with
     frameborder="0">
 </iframe>
 
-<iframe src="html/MortalityWHOItalyAll.html"
+<iframe src="h with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.tml/MortalityWHOItalyAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -26,6 +52,79 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy with
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+### All data:
+<iframe src="html/positiveItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/newPositiveItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/positiveItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/deceasedItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/newDeceasedItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/FatalityRateItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/ICULoadItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
+
+
+
+
+
+
+
 
 
 ### Basis data:
