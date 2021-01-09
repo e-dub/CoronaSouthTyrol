@@ -72,7 +72,7 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy.  Se
     frameborder="0">
 </iframe>
 
-<iframe src="html/positiveItalyAll.html"
+<iframe src="html/totalPositiveItalyAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
