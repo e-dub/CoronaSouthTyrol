@@ -8,9 +8,9 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy.  Se
 
 <p align=center><img width="100%" src="fig/ModelDailyFatalitiesItaly.svg"></p>
 
-<img align=left><img width="100%" src="fig/numberHospitalizedPeopleItaly.svg">
+<img align=left><img width="100%" src="fig/hospitalizedItaly.svg">
 
-<img align=left><img width="100%" src="fig/numberIntensiveTherapyItaly.svg">
+<img align=left><img width="100%" src="fig/intensive/Italy.svg">
 
 
 
