@@ -4,22 +4,22 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 ### Second wave:
 
-<img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrol.svg">
+<img align=left><img width="75%"  src="fig/ModelDailyCasesSouthTyrol.svg">
 
-<img align=left><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg">
+<img align=left><img width="75%" src="fig/ModelDailyFatalitiesSouthTyrol.svg">
 
-<img align=left><img width="100%" src="fig/numberHospitalizedPeopleSouthTyrol.svg">
+<img align=left><img width="75%" src="fig/numberHospitalizedPeopleSouthTyrol.svg">
 
-<img align=left><img width="100%" src="fig/numberIntensiveTherapySouthTyrol.svg">
+<img align=left><img width="75%" src="fig/numberIntensiveTherapySouthTyrol.svg">
 
-<img align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg">
+<img align=left><img width="75%" src="fig/newNumberTestedPeopleSouthTyrol.svg">
 
 
 ### WHO indicators:
 
 <iframe src="http/TestPositivitySouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -28,7 +28,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/TestingResponseWHOSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -37,7 +37,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/CaseIncidenceSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -46,7 +46,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/MortalityWHOSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -56,7 +56,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 ### All data:
 <iframe src="http/currentlyPositiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -65,7 +65,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/newPositiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -74,7 +74,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/positiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -83,7 +83,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/deceasedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -92,7 +92,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/newDeceasedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -101,7 +101,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/FatalityRateSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -110,7 +110,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/ICULoadSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
@@ -119,7 +119,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol. Second-wave dat
 
 <iframe src="http/newNumberTestedPeopleSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="75%"
     height="550"
     scrolling="no"
     seamless="seamless"
