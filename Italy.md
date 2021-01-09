@@ -1,4 +1,4 @@
-# Corona data, model and forecast for Italy
+# Italy
 
 Mathematical approximation of data for the second wave of COVID-19 in Italy with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
 
