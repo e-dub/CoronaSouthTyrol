@@ -17,7 +17,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
 
 ### WHO indicators:
 
-<iframe src="http/TestPositivitySouthTyrolAll.html"
+<iframe src="html/TestPositivitySouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -26,7 +26,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/TestingResponseWHOSouthTyrolAll.html"
+<iframe src="html/TestingResponseWHOSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -35,7 +35,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/CaseIncidenceSouthTyrolAll.html"
+<iframe src="html/CaseIncidenceSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -44,7 +44,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/MortalityWHOSouthTyrolAll.html"
+<iframe src="html/MortalityWHOSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -54,7 +54,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
 </iframe>
 
 ### All data:
-<iframe src="http/currentlyPositiveTestedSouthTyrolAll.html"
+<iframe src="html/currentlyPositiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -63,7 +63,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/newPositiveTestedSouthTyrolAll.html"
+<iframe src="html/newPositiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -72,7 +72,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/positiveTestedSouthTyrolAll.html"
+<iframe src="html/positiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -81,7 +81,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/deceasedSouthTyrolAll.html"
+<iframe src="html/deceasedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -90,7 +90,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/newDeceasedSouthTyrolAll.html"
+<iframe src="html/newDeceasedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -99,7 +99,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/FatalityRateSouthTyrolAll.html"
+<iframe src="html/FatalityRateSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -108,7 +108,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/ICULoadSouthTyrolAll.html"
+<iframe src="html/ICULoadSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -117,7 +117,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-<iframe src="http/newNumberTestedPeopleSouthTyrolAll.html"
+<iframe src="html/newNumberTestedPeopleSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
