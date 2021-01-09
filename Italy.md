@@ -7,6 +7,27 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy with
 <p align=center><img width="100%" src="fig/ModelDailyFatalitiesItaly.svg"></p>
 
 
+### WHO indicators:
+
+<iframe src="html/CaseIncidenceItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/MortalityWHOItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
 ### Basis data:
 Corona values [[1]](#1).
 
