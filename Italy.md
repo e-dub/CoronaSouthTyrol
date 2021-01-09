@@ -10,7 +10,7 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy.  Se
 
 <img align=left><img width="100%" src="fig/hospitalizedItaly.svg">
 
-<img align=left><img width="100%" src="fig/intensive/Italy.svg">
+<img align=left><img width="100%" src="fig/intensiveItaly.svg">
 
 
 
