@@ -1,6 +1,6 @@
 # Italy
 
-Mathematical approximation of data for the second wave of COVID-19 in Italy.  Second-wave data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed
+Mathematical approximation of data for the second wave of COVID-19 in Italy.  Second-wave data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed.
 
 ### Second wave:
 
