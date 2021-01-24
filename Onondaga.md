@@ -1,4 +1,4 @@
-## Data for Onondaga County
+# Onondaga County
 
 Mathematical approximation of data for the second wave of COVID-19 in Onondaga County, New York, United States with data starting on 6 October 2020. Exponential growth and a serial interval of four days are assumed.
 
