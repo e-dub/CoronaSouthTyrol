@@ -145,7 +145,9 @@ Serial interval = 4 days [[3]](#3).
 
 Fatality interval (between test and fatality) = 4 weeks.
 
-Calculation of R4 and R7, see [[3]](#3).
+Basic reproduction number R<sub>0</sub> = 5.7 [7]
+
+Calculation of effective reproduction number R<sub>t</sub> is carried out via a four-day mean  R<sub>4</sub> and a seven-day mean R<sub>7</sub> (considering the serial interval), see [[3]](#3). The model-based approximation utilizes the exponential model to find the effective reproduction number.
 
 Assumptions for community spreading ([[6]](#6)).:\
 Testing positivity:\
@@ -177,3 +179,6 @@ Hospitalization rate:\
 
 <a id="6">[6]</a>
 <https://www.who.int/publications/i/item/considerations-in-adjusting-public-health-and-social-measures-in-the-context-of-covid-19-interim-guidance>
+
+<a id="7">[7]</a>
+Sanche, S.; Lin, Y. T.; Xu, C.; Romero-Severson, E.; Hengartner, E.; Ke, R. (2020). "High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2". Emerging Infectious Diseases. 26 (7):1470–1477. doi:10.3201/eid2607.200282.
