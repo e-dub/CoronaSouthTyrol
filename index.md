@@ -145,7 +145,7 @@ Serial interval = 4 days [[3]](#3).
 
 Fatality interval (between test and fatality) = 4 weeks.
 
-Basic reproduction number R<sub>0</sub> = 5.7 [7]
+Basic reproduction number R<sub>0</sub> = 5.7 [[7]](#7).
 
 Calculation of effective reproduction number R<sub>t</sub> is carried out via a four-day mean  R<sub>4</sub> and a seven-day mean R<sub>7</sub> (considering the serial interval), see [[3]](#3). The model-based approximation utilizes the exponential model to find the effective reproduction number.
 
