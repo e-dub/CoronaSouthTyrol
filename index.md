@@ -6,6 +6,8 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
 
 <img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrol.svg">
 
+<img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrolSummer2021.svg">
+
 <img align=left><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg">
 
 <img align=left><img width="100%" src="fig/numberHospitalizedPeopleSouthTyrol.svg">
