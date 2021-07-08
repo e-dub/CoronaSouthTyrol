@@ -37,6 +37,7 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy.  Se
 </iframe>
 
 ### All data:
+
 <iframe src="html/positiveItalyAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -102,10 +103,12 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy.  Se
 
 
 ### Basis data:
+
 Corona values [[1]](#1).
 
 
 ### Assumptions:
+
 Exponential growth.
 
 Serial interval = 4 days [[2]](#2).
@@ -116,6 +119,7 @@ Calculation of R4 and R7, see [[2]](#2).
 
 
 ### Sources
+
 <a id="1">[1]</a>  
 https://github.com/pcm-dpc/COVID-19
     
