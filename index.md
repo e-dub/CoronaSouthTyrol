@@ -2,7 +2,7 @@
 
 Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-wave data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed. Only PCR tests are considered.
 
-### Second wave:
+### Second wave
 
 <img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrol.svg">
 
@@ -16,11 +16,11 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
 
 <img align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg">
 
-### Comparison:
+### Comparison
 
 <img align=left><img width="100%" src="fig/FatalityComparisonSouthTyrol.svg">
 
-### WHO indicators:
+### WHO indicators
 
 <iframe src="html/TestPositivitySouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
@@ -58,7 +58,8 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
-### All data:
+### All data
+
 <iframe src="html/currentlyPositiveTestedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -132,7 +133,8 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
 </iframe>
 
 
-### Basis data:
+### Basis data
+
 Number of ICU beds = 90 [[4]](#4).
 
 Population = 533439 [[2]](#2).
@@ -140,7 +142,8 @@ Population = 533439 [[2]](#2).
 Corona values in South Tyrol [[1]](#1),[[5]](#5).
 
 
-### Assumptions:
+### Assumptions
+
 Exponential growth.
 
 Serial interval = 4 days [[3]](#3).
@@ -163,7 +166,8 @@ Hospitalization rate:\
  <30%: high incidence of community spreading,\
  \>30%: very high incidence of community spreading.
 
-## Sources
+### Sources
+
 <a id="1">[1]</a>
 <http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp>
 
