@@ -5,11 +5,11 @@ Mathematical approximation of data for the second wave of COVID-19 in Italy.  Se
 
 ### Second wave
 
-<p align=center><img width="100%" src="fig/ModelDailyCasesItaly.svg"></p>
+<img align=center><img width="100%" src="fig/ModelDailyCasesItaly.svg">
 
-<p align=left><img width="100%"  src="fig/ModelDailyCasesItalySummer2021.svg">
+<img align=left><img width="100%"  src="fig/ModelDailyCasesItalySummer2021.svg">
 
-<p align=center><img width="100%" src="fig/ModelDailyFatalitiesItaly.svg"></p>
+<img align=center><img width="100%" src="fig/ModelDailyFatalitiesItaly.svg">
 
 <img align=left><img width="100%" src="fig/hospitalizedItaly.svg">
 
