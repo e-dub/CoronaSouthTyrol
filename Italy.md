@@ -1,6 +1,6 @@
 # Italy
 
-Mathematical approximation of data for the COVID-19 pandemic in Italy.  Data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed.  Uncertainty of models is shown as one standard deviation interval.
+Mathematical approximation of data for the COVID-19 pandemic in Italy.  Data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed.  Uncertainty of models is shown as an interval with one standard deviation above and below model value.
 
 
 
@@ -93,6 +93,24 @@ Mathematical approximation of data for the COVID-19 pandemic in Italy.  Data sta
     frameborder="0">
 </iframe>
 
+<iframe src="html/hospitalizedItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/intensiveItalyAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 <iframe src="html/ICULoadItalyAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -121,8 +139,8 @@ Calculation of R4 and R7, see [[2]](#2).
 
 ### Sources
 
-<a id="1">[1]</a>  
-https://github.com/pcm-dpc/COVID-19
+<a id="1">[1]</a>
+<https://github.com/pcm-dpc/COVID-19>
     
 <a id="2">[2]</a> 
-https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile
+<https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile>
