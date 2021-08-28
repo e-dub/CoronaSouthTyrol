@@ -114,6 +114,24 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Second-w
     frameborder="0">
 </iframe>
 
+<iframe src="html/numberHospitalizedPeopleSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/numberIntensiveTherapySouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 <iframe src="html/ICULoadSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
