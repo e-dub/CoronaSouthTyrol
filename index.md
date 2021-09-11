@@ -1,6 +1,6 @@
 # South Tyrol
 
-Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed. Uncertainty of models is shown as an interval with one standard deviation above and below model value.
+Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data starts on 6 October 2020. A second plot as been added zooming into pandemic starting on May 1, 2021. The mathematical approximation uses the last 14 days as a data basis, projecting the next 28 days. An exponential growth model using a serial interval of four days is assumed. Uncertainty of models is shown as an interval with one standard deviation to both sides of approximation.
 
 ### Second wave
 
