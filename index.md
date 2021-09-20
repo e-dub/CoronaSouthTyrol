@@ -1,18 +1,13 @@
 # South Tyrol
 
+## Statistics
+
 Mathematical approximation and data for COVID-19 in South Tyrol, Italy. The first section represents the current situation starting mid-summer 2021. The second section includes the entire pandemic with data starting on March 15, 2020.  The mathematical approximation uses the last 14 days as a data basis, projecting the next 28 days. An exponential growth model using a serial interval of four days is assumed. Uncertainty of models is shown as an interval with one standard deviation to both sides of approximation.
-
-
-## Comparison of fatality statistics
-
-<img align=left><img width="100%" src="fig/FatalityComparisonSouthTyrol.svg">
 
 
 ## Data starting mid-summer 2021
 
 <img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrol.svg">
-
-#<img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrolSummer2021.svg">
 
 <img align=left><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg">
 
@@ -22,6 +17,11 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. The firs
 
 <img align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg">
 
+
+
+## Comparison of fatality statistics
+
+<img align=left><img width="100%" src="fig/FatalityComparisonSouthTyrol.svg">
 
 
 ## Pandemic starting March 15, 2020
