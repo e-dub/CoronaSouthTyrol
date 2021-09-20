@@ -1,12 +1,18 @@
 # South Tyrol
 
-Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data starts on 6 October 2020. A second plot as been added zooming into pandemic starting on May 1, 2021. The mathematical approximation uses the last 14 days as a data basis, projecting the next 28 days. An exponential growth model using a serial interval of four days is assumed. Uncertainty of models is shown as an interval with one standard deviation to both sides of approximation.
+Mathematical approximation and data for COVID-19 in South Tyrol, Italy. The first section represents the current situation starting mid-summer 2021. The second section includes the entire pandemic with data starting on March 15, 2020.  The mathematical approximation uses the last 14 days as a data basis, projecting the next 28 days. An exponential growth model using a serial interval of four days is assumed. Uncertainty of models is shown as an interval with one standard deviation to both sides of approximation.
 
-### Second wave
+
+## Comparison of fatality statistics
+
+<img align=left><img width="100%" src="fig/FatalityComparisonSouthTyrol.svg">
+
+
+## Data starting mid-summer 2021
 
 <img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrol.svg">
 
-<img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrolSummer2021.svg">
+#<img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrolSummer2021.svg">
 
 <img align=left><img width="100%" src="fig/ModelDailyFatalitiesSouthTyrol.svg">
 
@@ -16,9 +22,9 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data sta
 
 <img align=left><img width="100%" src="fig/newNumberTestedPeopleSouthTyrol.svg">
 
-### Comparison
 
-<img align=left><img width="100%" src="fig/FatalityComparisonSouthTyrol.svg">
+
+## Pandemic starting March 15, 2020
 
 ### WHO indicators
 
@@ -58,9 +64,9 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data sta
     frameborder="0">
 </iframe>
 
-### All data
+### Case and testing statistics
 
-<iframe src="html/currentlyPositiveTestedSouthTyrolAll.html"
+<iframe src="html/newPositiveTotalSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -69,7 +75,8 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data sta
     frameborder="0">
 </iframe>
 
-<iframe src="html/newPositiveTotalSouthTyrolAll.html"
+
+<iframe src="html/newNumberTestedPeopleSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -87,6 +94,8 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data sta
     frameborder="0">
 </iframe>
 
+
+### Fatality statistics
 <iframe src="html/deceasedSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -114,6 +123,7 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data sta
     frameborder="0">
 </iframe>
 
+### Hospital statistics
 <iframe src="html/numberHospitalizedPeopleSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -141,17 +151,9 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. Data sta
     frameborder="0">
 </iframe>
 
-<iframe src="html/newNumberTestedPeopleSouthTyrolAll.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="550"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
 
 
-### Basis data
+## Basis data
 
 Number of ICU beds = 90 [[4]](#4).
 
@@ -160,7 +162,7 @@ Population = 533439 [[2]](#2).
 Corona values in South Tyrol [[1]](#1),[[5]](#5).
 
 
-### Assumptions
+## Assumptions
 
 Exponential growth.
 
@@ -184,7 +186,7 @@ Hospitalization rate:\
  <30%: high incidence of community spreading,\
  \>30%: very high incidence of community spreading.
 
-### Sources
+## Sources
 
 <a id="1">[1]</a>
 <http://www.provinz.bz.it/sicherheit-zivilschutz/zivilschutz/aktuelle-daten-zum-coronavirus.asp>
