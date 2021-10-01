@@ -1,14 +1,11 @@
 # Italy
 
-Mathematical approximation of data for the COVID-19 pandemic in Italy.  Data starts on 6 October 2020. For the mathematical approximation, the last 14 days are used as a data basis, projecting the next 28 days. Exponential growth and a serial interval of four days are assumed.  Uncertainty of models is shown as an interval with one standard deviation above and below model value.
+Mathematical approximation and data for COVID-19 in  Italy.  Data starts on 6 October 2020.  The first section represents the current situation starting mid-summer 2021. The second section includes the entire pandemic with data starting on February 24, 2020.  The mathematical approximation uses the last 14 days as a data basis, projecting the next 28 days. An exponential growth model using a serial interval of four days is assumed. Uncertainty of models is shown as an interval with one standard deviation to both sides of approximation.
 
 
-
-### Second wave
+## Data starting mid-summer 2021
 
 <img align=center><img width="100%" src="fig/ModelDailyCasesItaly.svg">
-
-<img align=left><img width="100%"  src="fig/ModelDailyCasesItalySummer2021.svg">
 
 <img align=center><img width="100%" src="fig/ModelDailyFatalitiesItaly.svg">
 
