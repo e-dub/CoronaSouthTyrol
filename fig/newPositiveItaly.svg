@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg height="281.366609pt" version="1.1" viewBox="0 0 523.915487 281.366609" width="523.915487pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="523.915487pt" height="281.366609pt" viewBox="0 0 523.915487 281.366609" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
-  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.4.3, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.5.0, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
   </rdf:RDF>
  </metadata>
  <defs>
-  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
  </defs>
  <g id="figure_1">
   <g id="patch_1">
@@ -25,7 +25,7 @@ L 523.915487 281.366609
 L 523.915487 0 
 L 0 0 
 z
-" style="fill:#ffffff;"/>
+" style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
@@ -34,1281 +34,1289 @@ L 338.044249 228.96
 L 338.044249 7.2 
 L 59.044249 7.2 
 z
-" style="fill:#ffffff;"/>
+" style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 59.221956 228.96 
-L 60.643612 228.96 
-L 60.643612 220.14162 
-L 59.221956 220.14162 
+    <path d="M 59.220831 228.96 
+L 60.633489 228.96 
+L 60.633489 220.98476 
+L 59.220831 220.98476 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 60.999026 228.96 
-L 62.420682 228.96 
-L 62.420682 214.08455 
-L 60.999026 214.08455 
+    <path d="M 60.986654 228.96 
+L 62.399312 228.96 
+L 62.399312 215.506818 
+L 60.986654 215.506818 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 62.776096 228.96 
-L 64.197752 228.96 
-L 64.197752 212.018021 
-L 62.776096 212.018021 
+    <path d="M 62.752476 228.96 
+L 64.165135 228.96 
+L 64.165135 213.637873 
+L 62.752476 213.637873 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 64.553166 228.96 
-L 65.974822 228.96 
-L 65.974822 212.445578 
-L 64.553166 212.445578 
+    <path d="M 64.518299 228.96 
+L 65.930957 228.96 
+L 65.930957 214.024551 
+L 64.518299 214.024551 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_7">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 66.330236 228.96 
-L 67.751892 228.96 
-L 67.751892 215.545373 
-L 66.330236 215.545373 
+    <path d="M 66.284122 228.96 
+L 67.69678 228.96 
+L 67.69678 216.827969 
+L 66.284122 216.827969 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 68.107306 228.96 
-L 69.528962 228.96 
-L 69.528962 214.031105 
-L 68.107306 214.031105 
+    <path d="M 68.049945 228.96 
+L 69.462603 228.96 
+L 69.462603 215.458483 
+L 68.049945 215.458483 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_9">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 69.884376 228.96 
-L 71.306032 228.96 
-L 71.306032 215.02874 
-L 69.884376 215.02874 
+    <path d="M 69.815768 228.96 
+L 71.228426 228.96 
+L 71.228426 216.360732 
+L 69.815768 216.360732 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_10">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 71.661446 228.96 
-L 73.083102 228.96 
-L 73.083102 222.03 
-L 71.661446 222.03 
+    <path d="M 71.58159 228.96 
+L 72.994249 228.96 
+L 72.994249 222.692589 
+L 71.58159 222.692589 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_11">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 73.438516 228.96 
-L 74.860172 228.96 
-L 74.860172 216.863676 
-L 73.438516 216.863676 
+    <path d="M 73.347413 228.96 
+L 74.760071 228.96 
+L 74.760071 218.020227 
+L 73.347413 218.020227 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_12">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 75.215586 228.96 
-L 76.637242 228.96 
-L 76.637242 215.13563 
-L 75.215586 215.13563 
+    <path d="M 75.113236 228.96 
+L 76.525894 228.96 
+L 76.525894 216.457402 
+L 75.113236 216.457402 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_13">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 76.992656 228.96 
-L 78.414312 228.96 
-L 78.414312 213.247249 
-L 76.992656 213.247249 
+    <path d="M 76.879059 228.96 
+L 78.291717 228.96 
+L 78.291717 214.749573 
+L 76.879059 214.749573 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_14">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 78.769726 228.96 
-L 80.191382 228.96 
-L 80.191382 214.814961 
-L 78.769726 214.814961 
+    <path d="M 78.644882 228.96 
+L 80.05754 228.96 
+L 80.05754 216.167393 
+L 78.644882 216.167393 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_15">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 80.546796 228.96 
-L 81.968452 228.96 
-L 81.968452 212.356504 
-L 80.546796 212.356504 
+    <path d="M 80.410704 228.96 
+L 81.823363 228.96 
+L 81.823363 213.943993 
+L 80.410704 213.943993 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_16">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 82.323866 228.96 
-L 83.745523 228.96 
-L 83.745523 214.565553 
-L 82.323866 214.565553 
+    <path d="M 82.176527 228.96 
+L 83.589185 228.96 
+L 83.589185 215.941831 
+L 82.176527 215.941831 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_17">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 84.100937 228.96 
-L 85.522593 228.96 
-L 85.522593 220.408843 
-L 84.100937 220.408843 
+    <path d="M 83.94235 228.96 
+L 85.355008 228.96 
+L 85.355008 221.226434 
+L 83.94235 221.226434 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_18">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 85.878007 228.96 
-L 87.299663 228.96 
-L 87.299663 212.801877 
-L 85.878007 212.801877 
+    <path d="M 85.708173 228.96 
+L 87.120831 228.96 
+L 87.120831 214.346783 
+L 85.708173 214.346783 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_19">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 87.655077 228.96 
-L 89.076733 228.96 
-L 89.076733 210.966941 
-L 87.655077 210.966941 
+    <path d="M 87.473995 228.96 
+L 88.886654 228.96 
+L 88.886654 212.687289 
+L 87.473995 212.687289 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_20">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 89.432147 228.96 
-L 90.853803 228.96 
-L 90.853803 204.126015 
-L 89.432147 204.126015 
+    <path d="M 89.239818 228.96 
+L 90.652476 228.96 
+L 90.652476 206.500436 
+L 89.239818 206.500436 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_21">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 91.209217 228.96 
-L 92.630873 228.96 
-L 92.630873 204.197275 
-L 91.209217 204.197275 
+    <path d="M 91.005641 228.96 
+L 92.418299 228.96 
+L 92.418299 206.564882 
+L 91.005641 206.564882 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_22">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 92.986287 228.96 
-L 94.407943 228.96 
-L 94.407943 204.019126 
-L 92.986287 204.019126 
+    <path d="M 92.771464 228.96 
+L 94.184122 228.96 
+L 94.184122 206.403766 
+L 92.771464 206.403766 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_23">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 94.763357 228.96 
-L 96.185013 228.96 
-L 96.185013 204.17946 
-L 94.763357 204.17946 
+    <path d="M 94.537287 228.96 
+L 95.949945 228.96 
+L 95.949945 206.548771 
+L 94.537287 206.548771 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_24">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 96.540427 228.96 
-L 97.962083 228.96 
-L 97.962083 213.14036 
-L 96.540427 213.14036 
+    <path d="M 96.303109 228.96 
+L 97.715768 228.96 
+L 97.715768 214.652903 
+L 96.303109 214.652903 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_25">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 98.317497 228.96 
-L 99.739153 228.96 
-L 99.739153 201.631928 
-L 98.317497 201.631928 
+    <path d="M 98.068932 228.96 
+L 99.48159 228.96 
+L 99.48159 204.244813 
+L 98.068932 204.244813 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_26">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 100.094567 228.96 
-L 101.516223 228.96 
-L 101.516223 190.604499 
-L 100.094567 190.604499 
+    <path d="M 99.834755 228.96 
+L 101.247413 228.96 
+L 101.247413 194.271735 
+L 99.834755 194.271735 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_27">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 101.871637 228.96 
-L 103.293293 228.96 
-L 103.293293 185.224396 
-L 101.871637 185.224396 
+    <path d="M 101.600578 228.96 
+L 103.013236 228.96 
+L 103.013236 189.406033 
+L 101.600578 189.406033 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_28">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 103.648707 228.96 
-L 105.070363 228.96 
-L 105.070363 177.332391 
-L 103.648707 177.332391 
+    <path d="M 103.366401 228.96 
+L 104.779059 228.96 
+L 104.779059 182.268596 
+L 103.366401 182.268596 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_29">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 105.425777 228.96 
-L 106.847433 228.96 
-L 106.847433 173.359666 
-L 105.425777 173.359666 
+    <path d="M 105.132223 228.96 
+L 106.544882 228.96 
+L 106.544882 178.675711 
+L 105.132223 178.675711 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_30">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 107.202847 228.96 
-L 108.624503 228.96 
-L 108.624503 173.252776 
-L 107.202847 173.252776 
+    <path d="M 106.898046 228.96 
+L 108.310704 228.96 
+L 108.310704 178.579041 
+L 106.898046 178.579041 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_31">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 108.979917 228.96 
-L 110.401573 228.96 
-L 110.401573 192.047506 
-L 108.979917 192.047506 
+    <path d="M 108.663869 228.96 
+L 110.076527 228.96 
+L 110.076527 195.576774 
+L 108.663869 195.576774 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_32">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 110.756987 228.96 
-L 112.178644 228.96 
-L 112.178644 165.57455 
-L 110.756987 165.57455 
+    <path d="M 110.429692 228.96 
+L 111.84235 228.96 
+L 111.84235 171.634943 
+L 110.429692 171.634943 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_33">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 112.534058 228.96 
-L 113.955714 228.96 
-L 113.955714 153.086298 
-L 112.534058 153.086298 
+    <path d="M 112.195514 228.96 
+L 113.608173 228.96 
+L 113.608173 160.340715 
+L 112.195514 160.340715 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_34">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 114.311128 228.96 
-L 115.732784 228.96 
-L 115.732784 138.87 
-L 114.311128 138.87 
+    <path d="M 113.961337 228.96 
+L 115.373995 228.96 
+L 115.373995 147.483662 
+L 113.961337 147.483662 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_35">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 116.088198 228.96 
-L 117.509854 228.96 
-L 117.509854 137.337918 
-L 116.088198 137.337918 
+    <path d="M 115.72716 228.96 
+L 117.139818 228.96 
+L 117.139818 146.098065 
+L 115.72716 146.098065 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_36">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 117.865268 228.96 
-L 119.286924 228.96 
-L 119.286924 137.391362 
-L 117.865268 137.391362 
+    <path d="M 117.492983 228.96 
+L 118.905641 228.96 
+L 118.905641 146.146399 
+L 117.492983 146.146399 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_37">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 119.642338 228.96 
-L 121.063994 228.96 
-L 121.063994 144.463882 
-L 119.642338 144.463882 
+    <path d="M 119.258806 228.96 
+L 120.671464 228.96 
+L 120.671464 152.542703 
+L 119.258806 152.542703 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_38">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 121.419408 228.96 
-L 122.841064 228.96 
-L 122.841064 173.430925 
-L 121.419408 173.430925 
+    <path d="M 121.024628 228.96 
+L 122.437287 228.96 
+L 122.437287 178.740157 
+L 121.024628 178.740157 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_39">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 123.196478 228.96 
-L 124.618134 228.96 
-L 124.618134 148.400977 
-L 123.196478 148.400977 
+    <path d="M 122.790451 228.96 
+L 124.203109 228.96 
+L 124.203109 156.103365 
+L 122.790451 156.103365 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_40">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 124.973548 228.96 
-L 126.395204 228.96 
-L 126.395204 127.486272 
-L 124.973548 127.486272 
+    <path d="M 124.556274 228.96 
+L 125.968932 228.96 
+L 125.968932 137.188352 
+L 124.556274 137.188352 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_41">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 126.750618 228.96 
-L 128.172274 228.96 
-L 128.172274 119.02419 
-L 126.750618 119.02419 
+    <path d="M 126.322097 228.96 
+L 127.734755 228.96 
+L 127.734755 129.535344 
+L 126.322097 129.535344 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_42">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 128.527688 228.96 
-L 129.949344 228.96 
-L 129.949344 111.043111 
-L 128.527688 111.043111 
+    <path d="M 128.08792 228.96 
+L 129.500578 228.96 
+L 129.500578 122.31735 
+L 128.08792 122.31735 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_43">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 130.304758 228.96 
-L 131.726414 228.96 
-L 131.726414 112.931491 
-L 130.304758 112.931491 
+    <path d="M 129.853742 228.96 
+L 131.266401 228.96 
+L 131.266401 124.025179 
+L 129.853742 124.025179 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_44">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 132.081828 228.96 
-L 133.503484 228.96 
-L 133.503484 134.166864 
-L 132.081828 134.166864 
+    <path d="M 131.619565 228.96 
+L 133.032223 228.96 
+L 133.032223 143.230201 
+L 131.619565 143.230201 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_45">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 133.858898 228.96 
-L 135.280554 228.96 
-L 135.280554 172.130437 
-L 133.858898 172.130437 
+    <path d="M 133.385388 228.96 
+L 134.798046 228.96 
+L 134.798046 177.56401 
+L 133.385388 177.56401 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_46">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 135.635968 228.96 
-L 137.057624 228.96 
-L 137.057624 142.646761 
-L 135.635968 142.646761 
+    <path d="M 135.151211 228.96 
+L 136.563869 228.96 
+L 136.563869 150.89932 
+L 135.151211 150.89932 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_47">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 137.413038 228.96 
-L 138.834694 228.96 
-L 138.834694 111.452853 
-L 137.413038 111.452853 
+    <path d="M 136.917033 228.96 
+L 138.329692 228.96 
+L 138.329692 122.687916 
+L 136.917033 122.687916 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_48">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 139.190108 228.96 
-L 140.611765 228.96 
-L 140.611765 100.158201 
-L 139.190108 100.158201 
+    <path d="M 138.682856 228.96 
+L 140.095514 228.96 
+L 140.095514 112.473165 
+L 138.682856 112.473165 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_49">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 140.967179 228.96 
-L 142.388835 228.96 
-L 142.388835 111.399409 
-L 140.967179 111.399409 
+    <path d="M 140.448679 228.96 
+L 141.861337 228.96 
+L 141.861337 122.639582 
+L 140.448679 122.639582 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_50">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 142.744249 228.96 
-L 144.165905 228.96 
-L 144.165905 106.001491 
-L 142.744249 106.001491 
+    <path d="M 142.214502 228.96 
+L 143.62716 228.96 
+L 143.62716 117.757768 
+L 142.214502 117.757768 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_51">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 144.521319 228.96 
-L 145.942975 228.96 
-L 145.942975 126.791491 
-L 144.521319 126.791491 
+    <path d="M 143.980325 228.96 
+L 145.392983 228.96 
+L 145.392983 136.56 
+L 143.980325 136.56 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_52">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 146.298389 228.96 
-L 147.720045 228.96 
-L 147.720045 154.137378 
-L 146.298389 154.137378 
+    <path d="M 145.746147 228.96 
+L 147.158806 228.96 
+L 147.158806 161.291299 
+L 145.746147 161.291299 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_53">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 148.075459 228.96 
-L 149.497115 228.96 
-L 149.497115 128.555167 
-L 148.075459 128.555167 
+    <path d="M 147.51197 228.96 
+L 148.924628 228.96 
+L 148.924628 138.155048 
+L 147.51197 138.155048 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_54">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 149.852529 228.96 
-L 151.274185 228.96 
-L 151.274185 104.825707 
-L 149.852529 104.825707 
+    <path d="M 149.277793 228.96 
+L 150.690451 228.96 
+L 150.690451 116.694403 
+L 149.277793 116.694403 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_55">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 151.629599 228.96 
-L 153.051255 228.96 
-L 153.051255 99.445604 
-L 151.629599 99.445604 
+    <path d="M 151.043616 228.96 
+L 152.456274 228.96 
+L 152.456274 111.828701 
+L 151.043616 111.828701 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_56">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 153.406669 228.96 
-L 154.828325 228.96 
-L 154.828325 96.969332 
-L 153.406669 96.969332 
+    <path d="M 152.809438 228.96 
+L 154.222097 228.96 
+L 154.222097 109.589189 
+L 152.809438 109.589189 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_57">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 155.183739 228.96 
-L 156.605395 228.96 
-L 156.605395 100.906427 
-L 155.183739 100.906427 
+    <path d="M 154.575261 228.96 
+L 155.98792 228.96 
+L 155.98792 113.149852 
+L 154.575261 113.149852 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_58">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 156.960809 228.96 
-L 158.382465 228.96 
-L 158.382465 128.05635 
-L 156.960809 128.05635 
+    <path d="M 156.341084 228.96 
+L 157.753742 228.96 
+L 157.753742 137.703923 
+L 156.341084 137.703923 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_59">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 158.737879 228.96 
-L 160.159535 228.96 
-L 160.159535 163.508021 
-L 158.737879 163.508021 
+    <path d="M 158.106907 228.96 
+L 159.519565 228.96 
+L 159.519565 169.765998 
+L 158.106907 169.765998 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_60">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 160.514949 228.96 
-L 161.936605 228.96 
-L 161.936605 135.021979 
-L 160.514949 135.021979 
+    <path d="M 159.87273 228.96 
+L 161.285388 228.96 
+L 161.285388 144.003557 
+L 159.87273 144.003557 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_61">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 162.292019 228.96 
-L 163.713675 228.96 
-L 163.713675 101.369614 
-L 162.292019 101.369614 
+    <path d="M 161.638552 228.96 
+L 163.051211 228.96 
+L 163.051211 113.568753 
+L 161.638552 113.568753 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_62">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 164.069089 228.96 
-L 165.490745 228.96 
-L 165.490745 99.623753 
-L 164.069089 99.623753 
+    <path d="M 163.404375 228.96 
+L 164.817033 228.96 
+L 164.817033 111.989817 
+L 163.404375 111.989817 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_63">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 165.846159 228.96 
-L 167.267815 228.96 
-L 167.267815 100.26509 
-L 165.846159 100.26509 
+    <path d="M 165.170198 228.96 
+L 166.582856 228.96 
+L 166.582856 112.569834 
+L 165.170198 112.569834 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_64">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 167.62323 228.96 
-L 169.044886 228.96 
-L 169.044886 95.882622 
-L 167.62323 95.882622 
+    <path d="M 166.936021 228.96 
+L 168.348679 228.96 
+L 168.348679 108.606382 
+L 166.936021 108.606382 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_65">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 169.4003 228.96 
-L 170.821956 228.96 
-L 170.821956 123.442288 
-L 169.4003 123.442288 
+    <path d="M 168.701844 228.96 
+L 170.114502 228.96 
+L 170.114502 133.53102 
+L 168.701844 133.53102 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_66">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 171.17737 228.96 
-L 172.599026 228.96 
-L 172.599026 154.707455 
-L 171.17737 154.707455 
+    <path d="M 170.467666 228.96 
+L 171.880325 228.96 
+L 171.880325 161.80687 
+L 170.467666 161.80687 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_67">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 172.95444 228.96 
-L 174.376096 228.96 
-L 174.376096 120.716607 
-L 172.95444 120.716607 
+    <path d="M 172.233489 228.96 
+L 173.646147 228.96 
+L 173.646147 131.065946 
+L 172.233489 131.065946 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_68">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 174.73151 228.96 
-L 176.153166 228.96 
-L 176.153166 94.493059 
-L 174.73151 94.493059 
+    <path d="M 173.999312 228.96 
+L 175.41197 228.96 
+L 175.41197 107.349677 
+L 173.999312 107.349677 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_69">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 176.50858 228.96 
-L 177.930236 228.96 
-L 177.930236 100.318535 
-L 176.50858 100.318535 
+    <path d="M 175.765135 228.96 
+L 177.177793 228.96 
+L 177.177793 112.618169 
+L 175.765135 112.618169 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_70">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 178.28565 228.96 
-L 179.707306 228.96 
-L 179.707306 89.540514 
-L 178.28565 89.540514 
+    <path d="M 177.530957 228.96 
+L 178.943616 228.96 
+L 178.943616 102.870654 
+L 177.530957 102.870654 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_71">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 180.06272 228.96 
-L 181.484376 228.96 
-L 181.484376 106.749717 
-L 180.06272 106.749717 
+    <path d="M 179.29678 228.96 
+L 180.709438 228.96 
+L 180.709438 118.434455 
+L 179.29678 118.434455 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_72">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 181.83979 228.96 
-L 183.261446 228.96 
-L 183.261446 122.800951 
-L 181.83979 122.800951 
+    <path d="M 181.062603 228.96 
+L 182.475261 228.96 
+L 182.475261 132.951003 
+L 181.062603 132.951003 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_73">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 183.61686 228.96 
-L 185.038516 228.96 
-L 185.038516 153.121928 
-L 183.61686 153.121928 
+    <path d="M 182.828426 228.96 
+L 184.241084 228.96 
+L 184.241084 160.372938 
+L 182.828426 160.372938 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_74">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 185.39393 228.96 
-L 186.815586 228.96 
-L 186.815586 131.013625 
-L 185.39393 131.013625 
+    <path d="M 184.594249 228.96 
+L 186.006907 228.96 
+L 186.006907 140.378448 
+L 184.594249 140.378448 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_75">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 187.171 228.96 
-L 188.592656 228.96 
-L 188.592656 113.10964 
-L 187.171 113.10964 
+    <path d="M 186.360071 228.96 
+L 187.77273 228.96 
+L 187.77273 124.186295 
+L 186.360071 124.186295 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_76">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 188.94807 228.96 
-L 190.369726 228.96 
-L 190.369726 108.513393 
-L 188.94807 108.513393 
+    <path d="M 188.125894 228.96 
+L 189.538552 228.96 
+L 189.538552 120.029503 
+L 188.125894 120.029503 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_77">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 190.72514 228.96 
-L 192.146796 228.96 
-L 192.146796 108.976581 
-L 190.72514 108.976581 
+    <path d="M 189.891717 228.96 
+L 191.304375 228.96 
+L 191.304375 120.448405 
+L 189.891717 120.448405 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_78">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 192.50221 228.96 
-L 193.923866 228.96 
-L 193.923866 119.273599 
-L 192.50221 119.273599 
+    <path d="M 191.65754 228.96 
+L 193.070198 228.96 
+L 193.070198 129.760907 
+L 191.65754 129.760907 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_79">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 194.27928 228.96 
-L 195.700937 228.96 
-L 195.700937 134.273753 
-L 194.27928 134.273753 
+    <path d="M 193.423363 228.96 
+L 194.836021 228.96 
+L 194.836021 143.32687 
+L 193.423363 143.32687 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_80">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 196.056351 228.96 
-L 197.478007 228.96 
-L 197.478007 169.084087 
-L 196.056351 169.084087 
+    <path d="M 195.189185 228.96 
+L 196.601844 228.96 
+L 196.601844 174.808928 
+L 195.189185 174.808928 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_81">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 197.833421 228.96 
-L 199.255077 228.96 
-L 199.255077 144.873625 
-L 197.833421 144.873625 
+    <path d="M 196.955008 228.96 
+L 198.367666 228.96 
+L 198.367666 152.913269 
+L 196.955008 152.913269 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_82">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 199.610491 228.96 
-L 201.032147 228.96 
-L 201.032147 123.442288 
-L 199.610491 123.442288 
+    <path d="M 198.720831 228.96 
+L 200.133489 228.96 
+L 200.133489 133.53102 
+L 198.720831 133.53102 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_83">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 201.387561 228.96 
-L 202.809217 228.96 
-L 202.809217 130.586067 
-L 201.387561 130.586067 
+    <path d="M 200.486654 228.96 
+L 201.899312 228.96 
+L 201.899312 139.99177 
+L 200.486654 139.99177 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_84">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 203.164631 228.96 
-L 204.586287 228.96 
-L 204.586287 128.822391 
-L 203.164631 128.822391 
+    <path d="M 202.252476 228.96 
+L 203.665135 228.96 
+L 203.665135 138.396722 
+L 202.252476 138.396722 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_85">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 204.941701 228.96 
-L 206.363357 228.96 
-L 206.363357 136.447172 
-L 204.941701 136.447172 
+    <path d="M 204.018299 228.96 
+L 205.430957 228.96 
+L 205.430957 145.292485 
+L 204.018299 145.292485 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_86">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 206.718771 228.96 
-L 208.140427 228.96 
-L 208.140427 145.87126 
-L 206.718771 145.87126 
+    <path d="M 205.784122 228.96 
+L 207.19678 228.96 
+L 207.19678 153.815519 
+L 205.784122 153.815519 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_87">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 208.495841 228.96 
-L 209.917497 228.96 
-L 209.917497 179.078252 
-L 208.495841 179.078252 
+    <path d="M 207.549945 228.96 
+L 208.962603 228.96 
+L 208.962603 183.847533 
+L 207.549945 183.847533 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_88">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 210.272911 228.96 
-L 211.694567 228.96 
-L 211.694567 157.326247 
-L 210.272911 157.326247 
+    <path d="M 209.315768 228.96 
+L 210.728426 228.96 
+L 210.728426 164.175275 
+L 209.315768 164.175275 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_89">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 212.049981 228.96 
-L 213.471637 228.96 
-L 213.471637 142.913985 
-L 212.049981 142.913985 
+    <path d="M 211.08159 228.96 
+L 212.494249 228.96 
+L 212.494249 151.140994 
+L 211.08159 151.140994 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_90">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 213.827051 228.96 
-L 215.248707 228.96 
-L 215.248707 137.801105 
-L 213.827051 137.801105 
+    <path d="M 212.847413 228.96 
+L 214.260071 228.96 
+L 214.260071 146.516966 
+L 212.847413 146.516966 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_91">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 215.604121 228.96 
-L 217.025777 228.96 
-L 217.025777 147.86653 
-L 215.604121 147.86653 
+    <path d="M 214.613236 228.96 
+L 216.025894 228.96 
+L 216.025894 155.620017 
+L 214.613236 155.620017 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_92">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 217.381191 228.96 
-L 218.802847 228.96 
-L 218.802847 147.403342 
-L 217.381191 147.403342 
+    <path d="M 216.379059 228.96 
+L 217.791717 228.96 
+L 217.791717 155.201116 
+L 216.379059 155.201116 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_93">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 219.158261 228.96 
-L 220.579917 228.96 
-L 220.579917 160.586375 
-L 219.158261 160.586375 
+    <path d="M 218.144882 228.96 
+L 219.55754 228.96 
+L 219.55754 167.123697 
+L 218.144882 167.123697 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_94">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 220.935331 228.96 
-L 222.356987 228.96 
-L 222.356987 186.079512 
-L 220.935331 186.079512 
+    <path d="M 219.910704 228.96 
+L 221.323363 228.96 
+L 221.323363 190.17939 
+L 219.910704 190.17939 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_95">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 222.712401 228.96 
-L 224.134058 228.96 
-L 224.134058 168.799049 
-L 222.712401 168.799049 
+    <path d="M 221.676527 228.96 
+L 223.089185 228.96 
+L 223.089185 174.551142 
+L 221.676527 174.551142 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_96">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 224.489472 228.96 
-L 225.911128 228.96 
-L 225.911128 158.234807 
-L 224.489472 158.234807 
+    <path d="M 223.44235 228.96 
+L 224.855008 228.96 
+L 224.855008 164.996966 
+L 223.44235 164.996966 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_97">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 226.266542 228.96 
-L 227.688198 228.96 
-L 227.688198 156.61365 
-L 226.266542 156.61365 
+    <path d="M 225.208173 228.96 
+L 226.620831 228.96 
+L 226.620831 163.530811 
+L 225.208173 163.530811 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_98">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 228.043612 228.96 
-L 229.465268 228.96 
-L 229.465268 161.316787 
-L 228.043612 161.316787 
+    <path d="M 226.973995 228.96 
+L 228.386654 228.96 
+L 228.386654 167.784272 
+L 226.973995 167.784272 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_99">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 229.820682 228.96 
-L 231.242338 228.96 
-L 231.242338 166.162442 
-L 229.820682 166.162442 
+    <path d="M 228.739818 228.96 
+L 230.152476 228.96 
+L 230.152476 172.166626 
+L 228.739818 172.166626 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_100">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 231.597752 228.96 
-L 233.019408 228.96 
-L 233.019408 173.751594 
-L 231.597752 173.751594 
+    <path d="M 230.505641 228.96 
+L 231.918299 228.96 
+L 231.918299 179.030166 
+L 230.505641 179.030166 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_101">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 233.374822 228.96 
-L 234.796478 228.96 
-L 234.796478 197.391979 
-L 233.374822 197.391979 
+    <path d="M 232.271464 228.96 
+L 233.684122 228.96 
+L 233.684122 200.410253 
+L 232.271464 200.410253 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_102">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 235.151892 228.96 
-L 236.573548 228.96 
-L 236.573548 175.782494 
-L 235.151892 175.782494 
+    <path d="M 234.037287 228.96 
+L 235.449945 228.96 
+L 235.449945 180.866888 
+L 234.037287 180.866888 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_103">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 236.928962 228.96 
-L 238.350618 228.96 
-L 238.350618 171.738509 
-L 236.928962 171.738509 
+    <path d="M 235.803109 228.96 
+L 237.215768 228.96 
+L 237.215768 177.209555 
+L 235.803109 177.209555 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_104">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 238.706032 228.96 
-L 240.127688 228.96 
-L 240.127688 161.192082 
-L 238.706032 161.192082 
+    <path d="M 237.568932 228.96 
+L 238.98159 228.96 
+L 238.98159 167.671491 
+L 237.568932 167.671491 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_105">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 240.483102 228.96 
-L 241.904758 228.96 
-L 241.904758 168.300231 
-L 240.483102 168.300231 
+    <path d="M 239.334755 228.96 
+L 240.747413 228.96 
+L 240.747413 174.100017 
+L 239.334755 174.100017 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_106">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 242.260172 228.96 
-L 243.681828 228.96 
-L 243.681828 169.957018 
-L 242.260172 169.957018 
+    <path d="M 241.100578 228.96 
+L 242.513236 228.96 
+L 242.513236 175.598396 
+L 241.100578 175.598396 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_107">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 244.037242 228.96 
-L 245.458898 228.96 
-L 245.458898 176.085347 
-L 244.037242 176.085347 
+    <path d="M 242.866401 228.96 
+L 244.279059 228.96 
+L 244.279059 181.140785 
+L 242.866401 181.140785 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_108">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 245.814312 228.96 
-L 247.235968 228.96 
-L 247.235968 200.242365 
-L 245.814312 200.242365 
+    <path d="M 244.632223 228.96 
+L 246.044882 228.96 
+L 246.044882 202.988108 
+L 244.632223 202.988108 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_109">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 247.591382 228.96 
-L 249.013038 228.96 
-L 249.013038 185.028432 
-L 247.591382 185.028432 
+    <path d="M 246.398046 228.96 
+L 247.810704 228.96 
+L 247.810704 189.228806 
+L 246.398046 189.228806 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_110">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 249.368452 228.96 
-L 250.790108 228.96 
-L 250.790108 171.328766 
-L 249.368452 171.328766 
+    <path d="M 248.163869 228.96 
+L 249.576527 228.96 
+L 249.576527 176.838989 
+L 248.163869 176.838989 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_111">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 251.145523 228.96 
-L 252.567179 228.96 
-L 252.567179 176.619794 
-L 251.145523 176.619794 
+    <path d="M 249.929692 228.96 
+L 251.34235 228.96 
+L 251.34235 181.624133 
+L 249.929692 181.624133 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_112">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 252.922593 228.96 
-L 254.344249 228.96 
-L 254.344249 175.105527 
-L 252.922593 175.105527 
+    <path d="M 251.695514 228.96 
+L 253.108173 228.96 
+L 253.108173 180.254647 
+L 251.695514 180.254647 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_113">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 254.699663 228.96 
-L 256.121319 228.96 
-L 256.121319 180.004627 
-L 254.699663 180.004627 
+    <path d="M 253.461337 228.96 
+L 254.873995 228.96 
+L 254.873995 184.685336 
+L 253.461337 184.685336 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_114">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 256.476733 228.96 
-L 257.898389 228.96 
-L 257.898389 188.377635 
-L 256.476733 188.377635 
+    <path d="M 255.22716 228.96 
+L 256.639818 228.96 
+L 256.639818 192.257786 
+L 255.22716 192.257786 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_115">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 258.253803 228.96 
-L 259.675459 228.96 
-L 259.675459 201.952596 
-L 258.253803 201.952596 
+    <path d="M 256.992983 228.96 
+L 258.405641 228.96 
+L 258.405641 204.534821 
+L 256.992983 204.534821 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_116">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 260.030873 228.96 
-L 261.452529 228.96 
-L 261.452529 184.529614 
-L 260.030873 184.529614 
+    <path d="M 258.758806 228.96 
+L 260.171464 228.96 
+L 260.171464 188.777681 
+L 258.758806 188.777681 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_117">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 261.807943 228.96 
-L 263.229599 228.96 
-L 263.229599 179.577069 
-L 261.807943 179.577069 
+    <path d="M 260.524628 228.96 
+L 261.937287 228.96 
+L 261.937287 184.298657 
+L 260.524628 184.298657 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_118">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 263.585013 228.96 
-L 265.006669 228.96 
-L 265.006669 181.42982 
-L 263.585013 181.42982 
+    <path d="M 262.290451 228.96 
+L 263.703109 228.96 
+L 263.703109 185.974263 
+L 262.290451 185.974263 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_119">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 265.362083 228.96 
-L 266.783739 228.96 
-L 266.783739 180.289666 
-L 265.362083 180.289666 
+    <path d="M 264.056274 228.96 
+L 265.468932 228.96 
+L 265.468932 184.943121 
+L 264.056274 184.943121 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_120">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 267.139153 228.96 
-L 268.560809 228.96 
-L 268.560809 175.818123 
-L 267.139153 175.818123 
+    <path d="M 265.822097 228.96 
+L 267.234755 228.96 
+L 267.234755 180.899111 
+L 265.822097 180.899111 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_121">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 268.916223 228.96 
-L 270.337879 228.96 
-L 270.337879 185.545064 
-L 268.916223 185.545064 
+    <path d="M 267.58792 228.96 
+L 269.000578 228.96 
+L 269.000578 189.696042 
+L 267.58792 189.696042 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_122">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 270.693293 228.96 
-L 272.114949 228.96 
-L 272.114949 200.509589 
-L 270.693293 200.509589 
+    <path d="M 269.353742 228.96 
+L 270.766401 228.96 
+L 270.766401 203.229782 
+L 269.353742 203.229782 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_123">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 272.470363 228.96 
-L 273.892019 228.96 
-L 273.892019 180.913188 
-L 272.470363 180.913188 
+    <path d="M 271.119565 228.96 
+L 272.532223 228.96 
+L 272.532223 185.507027 
+L 271.119565 185.507027 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_124">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 274.247433 228.96 
-L 275.669089 228.96 
-L 275.669089 163.009203 
-L 274.247433 163.009203 
+    <path d="M 272.885388 228.96 
+L 274.298046 228.96 
+L 274.298046 169.314874 
+L 272.885388 169.314874 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_125">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 276.024503 228.96 
-L 277.446159 228.96 
-L 277.446159 161.370231 
-L 276.024503 161.370231 
+    <path d="M 274.651211 228.96 
+L 276.063869 228.96 
+L 276.063869 167.832607 
+L 274.651211 167.832607 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_126">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 277.801573 228.96 
-L 279.22323 228.96 
-L 279.22323 159.802519 
-L 277.801573 159.802519 
+    <path d="M 276.417033 228.96 
+L 277.829692 228.96 
+L 277.829692 166.414786 
+L 276.417033 166.414786 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_127">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 279.578644 228.96 
-L 281.0003 228.96 
-L 281.0003 159.339332 
-L 279.578644 159.339332 
+    <path d="M 278.182856 228.96 
+L 279.595514 228.96 
+L 279.595514 165.995885 
+L 278.182856 165.995885 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_128">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 281.355714 228.96 
-L 282.77737 228.96 
-L 282.77737 162.59946 
-L 281.355714 162.59946 
+    <path d="M 279.948679 228.96 
+L 281.361337 228.96 
+L 281.361337 168.944307 
+L 279.948679 168.944307 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_129">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 283.132784 228.96 
-L 284.55444 228.96 
-L 284.55444 183.799203 
-L 283.132784 183.799203 
+    <path d="M 281.714502 228.96 
+L 283.12716 228.96 
+L 283.12716 188.117105 
+L 281.714502 188.117105 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_130">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 284.909854 228.96 
-L 286.33151 228.96 
-L 286.33151 156.738355 
-L 284.909854 156.738355 
+    <path d="M 283.480325 228.96 
+L 284.892983 228.96 
+L 284.892983 163.643592 
+L 283.480325 163.643592 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_131">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 286.686924 228.96 
-L 288.10858 228.96 
-L 288.10858 147.047044 
-L 286.686924 147.047044 
+    <path d="M 285.246147 228.96 
+L 286.658806 228.96 
+L 286.658806 154.878884 
+L 285.246147 154.878884 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_132">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 288.463994 228.96 
-L 289.88565 228.96 
-L 289.88565 142.272648 
-L 288.463994 142.272648 
+    <path d="M 287.01197 228.96 
+L 288.424628 228.96 
+L 288.424628 150.560976 
+L 287.01197 150.560976 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_133">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 290.241064 228.96 
-L 291.66272 228.96 
-L 291.66272 133.917455 
-L 290.241064 133.917455 
+    <path d="M 288.777793 228.96 
+L 290.190451 228.96 
+L 290.190451 143.004638 
+L 288.777793 143.004638 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_134">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 292.018134 228.96 
-L 293.43979 228.96 
-L 293.43979 142.058869 
-L 292.018134 142.058869 
+    <path d="M 290.543616 228.96 
+L 291.956274 228.96 
+L 291.956274 150.367637 
+L 290.543616 150.367637 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_135">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 293.795204 228.96 
-L 295.21686 228.96 
-L 295.21686 148.329717 
-L 293.795204 148.329717 
+    <path d="M 292.309438 228.96 
+L 293.722097 228.96 
+L 293.722097 156.038919 
+L 292.309438 156.038919 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_136">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 295.572274 228.96 
-L 296.99393 228.96 
-L 296.99393 178.757584 
-L 295.572274 178.757584 
+    <path d="M 294.075261 228.96 
+L 295.48792 228.96 
+L 295.48792 183.557524 
+L 294.075261 183.557524 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_137">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 297.349344 228.96 
-L 298.771 228.96 
-L 298.771 178.472545 
-L 297.349344 178.472545 
+    <path d="M 295.841084 228.96 
+L 297.253742 228.96 
+L 297.253742 183.299738 
+L 295.841084 183.299738 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_138">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 299.126414 228.96 
-L 300.54807 228.96 
-L 300.54807 136.536247 
-L 299.126414 136.536247 
+    <path d="M 297.606907 228.96 
+L 299.019565 228.96 
+L 299.019565 145.373043 
+L 297.606907 145.373043 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_139">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 300.903484 228.96 
-L 302.32514 228.96 
-L 302.32514 123.762956 
-L 300.903484 123.762956 
+    <path d="M 299.37273 228.96 
+L 300.785388 228.96 
+L 300.785388 133.821029 
+L 299.37273 133.821029 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_140">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 302.680554 228.96 
-L 304.10221 228.96 
-L 304.10221 108.459949 
-L 302.680554 108.459949 
+    <path d="M 301.138552 228.96 
+L 302.551211 228.96 
+L 302.551211 119.981168 
+L 301.138552 119.981168 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_141">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 304.457624 228.96 
-L 305.87928 228.96 
-L 305.87928 108.459949 
-L 304.457624 108.459949 
+    <path d="M 302.904375 228.96 
+L 304.317033 228.96 
+L 304.317033 119.981168 
+L 302.904375 119.981168 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_142">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 306.234694 228.96 
-L 307.656351 228.96 
-L 307.656351 125.241594 
-L 306.234694 125.241594 
+    <path d="M 304.670198 228.96 
+L 306.082856 228.96 
+L 306.082856 135.158291 
+L 304.670198 135.158291 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_143">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 308.011765 228.96 
-L 309.433421 228.96 
-L 309.433421 154.190823 
-L 308.011765 154.190823 
+    <path d="M 306.436021 228.96 
+L 307.848679 228.96 
+L 307.848679 161.339634 
+L 306.436021 161.339634 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_144">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 309.788835 228.96 
-L 311.210491 228.96 
-L 311.210491 121.500463 
-L 309.788835 121.500463 
+    <path d="M 308.201844 228.96 
+L 309.614502 228.96 
+L 309.614502 131.774856 
+L 308.201844 131.774856 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_145">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 311.565905 228.96 
-L 312.987561 228.96 
-L 312.987561 88.382545 
-L 311.565905 88.382545 
+    <path d="M 309.967666 228.96 
+L 311.380325 228.96 
+L 311.380325 101.8234 
+L 309.967666 101.8234 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_146">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 313.342975 228.96 
-L 314.764631 228.96 
-L 314.764631 76.304036 
-L 313.342975 76.304036 
+    <path d="M 311.733489 228.96 
+L 313.146147 228.96 
+L 313.146147 90.899738 
+L 311.733489 90.899738 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_147">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 315.120045 228.96 
-L 316.541701 228.96 
-L 316.541701 77.248226 
-L 315.120045 77.248226 
+    <path d="M 313.499312 228.96 
+L 314.91197 228.96 
+L 314.91197 91.753653 
+L 313.499312 91.753653 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_148">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 316.897115 228.96 
-L 318.318771 228.96 
-L 318.318771 76.749409 
-L 316.897115 76.749409 
+    <path d="M 315.265135 228.96 
+L 316.677793 228.96 
+L 316.677793 91.302528 
+L 315.265135 91.302528 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_149">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 318.674185 228.96 
-L 320.095841 228.96 
-L 320.095841 94.118946 
-L 318.674185 94.118946 
+    <path d="M 317.030957 228.96 
+L 318.443616 228.96 
+L 318.443616 107.011334 
+L 317.030957 107.011334 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_150">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 320.451255 228.96 
-L 321.872911 228.96 
-L 321.872911 137.320103 
-L 320.451255 137.320103 
+    <path d="M 318.79678 228.96 
+L 320.209438 228.96 
+L 320.209438 146.081953 
+L 318.79678 146.081953 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_151">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 322.228325 228.96 
-L 323.649981 228.96 
-L 323.649981 91.820823 
-L 322.228325 91.820823 
+    <path d="M 320.562603 228.96 
+L 321.975261 228.96 
+L 321.975261 104.932938 
+L 320.562603 104.932938 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_152">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 324.005395 228.96 
-L 325.427051 228.96 
-L 325.427051 47.746735 
-L 324.005395 47.746735 
+    <path d="M 322.328426 228.96 
+L 323.741084 228.96 
+L 323.741084 65.072851 
+L 322.328426 65.072851 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_153">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 325.782465 228.96 
-L 327.204121 228.96 
-L 327.204121 39.444987 
-L 325.782465 39.444987 
+    <path d="M 324.094249 228.96 
+L 325.506907 228.96 
+L 325.506907 57.564847 
+L 324.094249 57.564847 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_154">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 327.559535 228.96 
-L 328.981191 228.96 
-L 328.981191 41.119589 
-L 327.559535 41.119589 
+    <path d="M 325.860071 228.96 
+L 327.27273 228.96 
+L 327.27273 59.079337 
+L 325.860071 59.079337 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_155">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 329.336605 228.96 
-L 330.758261 228.96 
-L 330.758261 23.108715 
-L 329.336605 23.108715 
+    <path d="M 327.625894 228.96 
+L 329.038552 228.96 
+L 329.038552 42.790514 
+L 327.625894 42.790514 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_156">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 331.113675 228.96 
-L 332.535331 228.96 
-L 332.535331 55.995039 
-L 331.113675 55.995039 
+    <path d="M 329.391717 228.96 
+L 330.804375 228.96 
+L 330.804375 72.53252 
+L 329.391717 72.53252 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_157">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 332.890745 228.96 
-L 334.312401 228.96 
-L 334.312401 114.873316 
-L 332.890745 114.873316 
+    <path d="M 331.15754 228.96 
+L 332.570198 228.96 
+L 332.570198 125.781343 
+L 331.15754 125.781343 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_158">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 334.667815 228.96 
-L 336.089472 228.96 
-L 336.089472 49.973599 
-L 334.667815 49.973599 
+    <path d="M 332.923363 228.96 
+L 334.336021 228.96 
+L 334.336021 67.0868 
+L 332.923363 67.0868 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="patch_159">
-    <path clip-path="url(#pdfd5bdf5cd)" d="M 336.444886 228.96 
-L 337.866542 228.96 
-L 337.866542 7.2 
-L 336.444886 7.2 
+    <path d="M 334.689185 228.96 
+L 336.101844 228.96 
+L 336.101844 28.40286 
+L 334.689185 28.40286 
 z
-" style="fill:#1f77b4;"/>
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_160">
+    <path d="M 336.455008 228.96 
+L 337.867666 228.96 
+L 337.867666 7.2 
+L 336.455008 7.2 
+z
+" clip-path="url(#p23ef24efd4)" style="fill: #1f77b4"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path d="M 0 0 
+       <path id="me8d1968b96" d="M 0 0 
 L 0 3.5 
-" id="m968cdbd076" style="stroke:#000000;stroke-width:0.8;"/>
+" style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="77.703484" xlink:href="#m968cdbd076" y="228.96"/>
+       <use xlink:href="#me8d1968b96" x="77.585388" y="228.96" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
       <!-- $\mathdefault{2021{-}07}$ -->
-      <g transform="translate(79.862897 274.166609)rotate(-90)scale(0.1 -0.1)">
+      <g transform="translate(79.744801 274.166609)rotate(-90)scale(0.1 -0.1)">
        <defs>
-        <path d="M 102 160 
+        <path id="URWPalladioL-Roma-32" d="M 102 160 
 L 102 0 
 C 1299 0 1299 0 1530 0 
 C 1760 0 1760 0 2995 0 
@@ -1327,8 +1335,8 @@ C 1830 3923 2182 3577 2182 3035
 C 2182 2555 1914 2083 1190 1316 
 L 102 160 
 z
-" id="URWPalladioL-Roma-32" transform="scale(0.015625)"/>
-        <path d="M 1683 4416 
+" transform="scale(0.015625)"/>
+        <path id="URWPalladioL-Roma-30" d="M 1683 4416 
 C 691 4416 186 3628 186 2077 
 C 186 1326 320 680 544 366 
 C 768 51 1126 -128 1523 -128 
@@ -1341,8 +1349,8 @@ C 2438 661 2195 96 1606 96
 C 986 96 723 744 723 2308 
 C 723 3660 960 4192 1568 4192 
 z
-" id="URWPalladioL-Roma-30" transform="scale(0.015625)"/>
-        <path d="M 429 3584 
+" transform="scale(0.015625)"/>
+        <path id="URWPalladioL-Roma-31" d="M 429 3584 
 L 493 3584 
 L 1318 3956 
 C 1325 3962 1331 3962 1338 3962 
@@ -1362,8 +1370,8 @@ L 1837 4475
 C 1421 4257 966 4065 384 3860 
 L 429 3584 
 z
-" id="URWPalladioL-Roma-31" transform="scale(0.015625)"/>
-        <path d="M 4218 1472 
+" transform="scale(0.015625)"/>
+        <path id="CMSY10-0" d="M 4218 1472 
 C 4326 1472 4442 1472 4442 1600 
 C 4442 1728 4326 1728 4218 1728 
 L 755 1728 
@@ -1371,8 +1379,8 @@ C 646 1728 531 1728 531 1600
 C 531 1472 646 1472 755 1472 
 L 4218 1472 
 z
-" id="CMSY10-0" transform="scale(0.015625)"/>
-        <path d="M 358 32 
+" transform="scale(0.015625)"/>
+        <path id="URWPalladioL-Roma-37" d="M 358 32 
 L 416 -51 
 C 666 -32 666 -32 710 -32 
 C 755 -32 755 -32 1005 -51 
@@ -1391,29 +1399,29 @@ L 2618 3840
 C 2362 3313 2163 2941 1920 2549 
 L 358 32 
 z
-" id="URWPalladioL-Roma-37" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
        </defs>
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(200.498102 0)scale(1.038107)" xlink:href="#CMSY10-0"/>
-       <use transform="translate(282.439798 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(332.252998 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(149.439601 0)scale(0.996264)"/>
+       <use xlink:href="#CMSY10-0" transform="translate(200.498102 0)scale(1.038107)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(282.439798 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-37" transform="translate(332.252998 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="132.792656" xlink:href="#m968cdbd076" y="228.96"/>
+       <use xlink:href="#me8d1968b96" x="132.325894" y="228.96" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- $\mathdefault{2021{-}08}$ -->
-      <g transform="translate(134.952069 274.166609)rotate(-90)scale(0.1 -0.1)">
+      <g transform="translate(134.485307 274.166609)rotate(-90)scale(0.1 -0.1)">
        <defs>
-        <path d="M 1075 2211 
+        <path id="URWPalladioL-Roma-38" d="M 1075 2211 
 C 813 2090 704 2019 563 1884 
 C 320 1641 192 1352 192 1019 
 C 192 359 723 -128 1446 -128 
@@ -1438,29 +1446,29 @@ C 2048 4198 2355 3891 2355 3422
 C 2355 3058 2195 2808 1779 2538 
 L 1427 2712 
 z
-" id="URWPalladioL-Roma-38" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
        </defs>
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(200.498102 0)scale(1.038107)" xlink:href="#CMSY10-0"/>
-       <use transform="translate(282.439798 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(332.252998 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-38"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(149.439601 0)scale(0.996264)"/>
+       <use xlink:href="#CMSY10-0" transform="translate(200.498102 0)scale(1.038107)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(282.439798 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-38" transform="translate(332.252998 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="187.881828" xlink:href="#m968cdbd076" y="228.96"/>
+       <use xlink:href="#me8d1968b96" x="187.066401" y="228.96" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- $\mathdefault{2021{-}09}$ -->
-      <g transform="translate(190.041241 274.166609)rotate(-90)scale(0.1 -0.1)">
+      <g transform="translate(189.225814 274.166609)rotate(-90)scale(0.1 -0.1)">
        <defs>
-        <path d="M 614 -106 
+        <path id="URWPalladioL-Roma-39" d="M 614 -106 
 C 1325 125 1632 272 1978 566 
 C 2598 1098 2925 1835 2925 2693 
 C 2925 3776 2406 4435 1562 4435 
@@ -1479,53 +1487,53 @@ C 2368 2451 2029 2055 1536 2055
 C 1024 2055 678 2509 678 3174 
 C 678 3821 1011 4224 1536 4224 
 z
-" id="URWPalladioL-Roma-39" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
        </defs>
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(200.498102 0)scale(1.038107)" xlink:href="#CMSY10-0"/>
-       <use transform="translate(282.439798 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(332.252998 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-39"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(149.439601 0)scale(0.996264)"/>
+       <use xlink:href="#CMSY10-0" transform="translate(200.498102 0)scale(1.038107)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(282.439798 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-39" transform="translate(332.252998 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="241.19393" xlink:href="#m968cdbd076" y="228.96"/>
+       <use xlink:href="#me8d1968b96" x="240.041084" y="228.96" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- $\mathdefault{2021{-}10}$ -->
-      <g transform="translate(243.353343 274.166609)rotate(-90)scale(0.1 -0.1)">
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(200.498102 0)scale(1.038107)" xlink:href="#CMSY10-0"/>
-       <use transform="translate(282.439798 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(332.252998 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+      <g transform="translate(242.200497 274.166609)rotate(-90)scale(0.1 -0.1)">
+       <use xlink:href="#URWPalladioL-Roma-32" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(149.439601 0)scale(0.996264)"/>
+       <use xlink:href="#CMSY10-0" transform="translate(200.498102 0)scale(1.038107)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(282.439798 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(332.252998 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="296.283102" xlink:href="#m968cdbd076" y="228.96"/>
+       <use xlink:href="#me8d1968b96" x="294.78159" y="228.96" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- $\mathdefault{2021{-}11}$ -->
-      <g transform="translate(298.442515 274.166609)rotate(-90)scale(0.1 -0.1)">
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(200.498102 0)scale(1.038107)" xlink:href="#CMSY10-0"/>
-       <use transform="translate(282.439798 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(332.252998 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
+      <g transform="translate(296.941004 274.166609)rotate(-90)scale(0.1 -0.1)">
+       <use xlink:href="#URWPalladioL-Roma-32" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(149.439601 0)scale(0.996264)"/>
+       <use xlink:href="#CMSY10-0" transform="translate(200.498102 0)scale(1.038107)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(282.439798 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-31" transform="translate(332.252998 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
@@ -1534,48 +1542,48 @@ z
     <g id="ytick_1">
      <g id="line2d_6">
       <defs>
-       <path d="M 0 0 
+       <path id="m6e6a78884f" d="M 0 0 
 L -3.5 0 
-" id="m06073553cd" style="stroke:#000000;stroke-width:0.8;"/>
+" style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="59.044249" xlink:href="#m06073553cd" y="228.96"/>
+       <use xlink:href="#m6e6a78884f" x="59.044249" y="228.96" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- $\mathdefault{0}$ -->
       <g transform="translate(47.062929 232.524119)scale(0.1 -0.1)">
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_7">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="59.044249" xlink:href="#m06073553cd" y="193.33018"/>
+       <use xlink:href="#m6e6a78884f" x="59.044249" y="196.736809" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
       <!-- $\mathdefault{2000}$ -->
-      <g transform="translate(32.118968 196.894299)scale(0.1 -0.1)">
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+      <g transform="translate(32.118968 200.300928)scale(0.1 -0.1)">
+       <use xlink:href="#URWPalladioL-Roma-32" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(149.439601 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_8">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="59.044249" xlink:href="#m06073553cd" y="157.70036"/>
+       <use xlink:href="#m6e6a78884f" x="59.044249" y="164.513618" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
       <!-- $\mathdefault{4000}$ -->
-      <g transform="translate(32.118968 161.264479)scale(0.1 -0.1)">
+      <g transform="translate(32.118968 168.077737)scale(0.1 -0.1)">
        <defs>
-        <path d="M 1792 1152 
+        <path id="URWPalladioL-Roma-34" d="M 1792 1152 
 L 1792 673 
 C 1792 289 1722 199 1408 199 
 L 1011 199 
@@ -1604,26 +1612,26 @@ L 416 1563
 L 1792 3826 
 L 1792 1563 
 z
-" id="URWPalladioL-Roma-34" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
        </defs>
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+       <use xlink:href="#URWPalladioL-Roma-34" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(149.439601 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="ytick_4">
      <g id="line2d_9">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="59.044249" xlink:href="#m06073553cd" y="122.07054"/>
+       <use xlink:href="#m6e6a78884f" x="59.044249" y="132.290427" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
       <!-- $\mathdefault{6000}$ -->
-      <g transform="translate(32.118968 125.634659)scale(0.1 -0.1)">
+      <g transform="translate(32.118968 135.854546)scale(0.1 -0.1)">
        <defs>
-        <path d="M 2662 4310 
+        <path id="URWPalladioL-Roma-36" d="M 2662 4310 
 L 2426 4419 
 C 1811 4214 1549 4086 1222 3804 
 C 563 3246 205 2464 205 1585 
@@ -1642,62 +1650,62 @@ C 1082 83 787 551 787 1412
 C 787 1636 813 1758 883 1867 
 C 1024 2085 1325 2239 1632 2239 
 z
-" id="URWPalladioL-Roma-36" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
        </defs>
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-36"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+       <use xlink:href="#URWPalladioL-Roma-36" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(149.439601 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="ytick_5">
      <g id="line2d_10">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="59.044249" xlink:href="#m06073553cd" y="86.44072"/>
+       <use xlink:href="#m6e6a78884f" x="59.044249" y="100.067236" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
       <!-- $\mathdefault{8000}$ -->
-      <g transform="translate(32.118968 90.004838)scale(0.1 -0.1)">
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-38"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+      <g transform="translate(32.118968 103.631355)scale(0.1 -0.1)">
+       <use xlink:href="#URWPalladioL-Roma-38" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(149.439601 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="ytick_6">
      <g id="line2d_11">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="59.044249" xlink:href="#m06073553cd" y="50.8109"/>
+       <use xlink:href="#m6e6a78884f" x="59.044249" y="67.844045" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
       <!-- $\mathdefault{10000}$ -->
-      <g transform="translate(27.137648 54.375018)scale(0.1 -0.1)">
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(199.252802 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+      <g transform="translate(27.137648 71.408164)scale(0.1 -0.1)">
+       <use xlink:href="#URWPalladioL-Roma-31" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(149.439601 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(199.252802 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
     <g id="ytick_7">
      <g id="line2d_12">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="59.044249" xlink:href="#m06073553cd" y="15.18108"/>
+       <use xlink:href="#m6e6a78884f" x="59.044249" y="35.620854" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
       <!-- $\mathdefault{12000}$ -->
-      <g transform="translate(27.137648 18.745198)scale(0.1 -0.1)">
-       <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-       <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-       <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(149.439601 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-       <use transform="translate(199.252802 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
+      <g transform="translate(27.137648 39.184973)scale(0.1 -0.1)">
+       <use xlink:href="#URWPalladioL-Roma-31" transform="scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-32" transform="translate(49.8132 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(99.626401 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(149.439601 0)scale(0.996264)"/>
+       <use xlink:href="#URWPalladioL-Roma-30" transform="translate(199.252802 0)scale(0.996264)"/>
       </g>
      </g>
     </g>
@@ -1705,7 +1713,7 @@ z
      <!-- number of tested persons daily -->
      <g transform="translate(14.328237 186.417887)rotate(-90)scale(0.1 -0.1)">
       <defs>
-       <path d="M 2624 -7 
+       <path id="URWPalladioL-Roma-6e" d="M 2624 -7 
 C 3014 -7 3021 -7 3130 -7 
 C 3219 -7 3219 -7 3661 -7 
 L 3661 179 
@@ -1735,8 +1743,8 @@ C 1101 2300 1523 2616 1914 2616
 C 2342 2616 2624 2297 2624 1806 
 L 2624 -7 
 z
-" id="URWPalladioL-Roma-6e" transform="scale(0.015625)"/>
-       <path d="M 3219 3009 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-75" d="M 3219 3009 
 L 3162 3035 
 C 2835 2900 2502 2810 2163 2772 
 L 2163 2592 
@@ -1766,8 +1774,8 @@ L 3456 212
 C 3238 212 3219 251 3219 664 
 L 3219 3009 
 z
-" id="URWPalladioL-Roma-75" transform="scale(0.015625)"/>
-       <path d="M 115 2565 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-6d" d="M 115 2565 
 L 352 2565 
 C 608 2565 634 2520 634 2094 
 L 634 643 
@@ -1812,8 +1820,8 @@ L 1114 3008
 C 787 2873 454 2783 115 2745 
 L 115 2565 
 z
-" id="URWPalladioL-Roma-6d" transform="scale(0.015625)"/>
-       <path d="M 960 4620 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-62" d="M 960 4620 
 L 902 4672 
 C 621 4563 410 4511 -96 4434 
 L -96 4255 
@@ -1840,8 +1848,8 @@ C 2694 755 2310 256 1766 256
 C 1434 256 960 460 960 601 
 L 960 1977 
 z
-" id="URWPalladioL-Roma-62" transform="scale(0.015625)"/>
-       <path d="M 2797 447 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-65" d="M 2797 447 
 L 2714 511 
 C 2304 269 2157 212 1882 212 
 C 1466 212 1120 398 941 711 
@@ -1866,8 +1874,8 @@ C 1018 2622 1293 2796 1600 2796
 C 1811 2796 1978 2711 2093 2534 
 C 2234 2319 2278 2129 2298 1690 
 z
-" id="URWPalladioL-Roma-65" transform="scale(0.015625)"/>
-       <path d="M 147 2565 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-72" d="M 147 2565 
 L 384 2565 
 C 640 2565 666 2520 666 2094 
 L 666 643 
@@ -1892,8 +1900,8 @@ L 1146 3008
 C 819 2873 486 2783 147 2745 
 L 147 2565 
 z
-" id="URWPalladioL-Roma-72" transform="scale(0.015625)"/>
-       <path d="M 1786 3008 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-6f" d="M 1786 3008 
 C 851 3008 205 2347 205 1392 
 C 205 487 774 -128 1600 -128 
 C 2586 -128 3290 558 3290 1520 
@@ -1905,8 +1913,8 @@ C 2694 545 2368 83 1850 83
 C 1222 83 800 699 800 1610 
 C 800 2379 1107 2796 1670 2796 
 z
-" id="URWPalladioL-Roma-6f" transform="scale(0.015625)"/>
-       <path d="M 2182 4601 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-66" d="M 2182 4601 
 C 2048 4652 1971 4672 1888 4672 
 C 1683 4672 1459 4563 1318 4404 
 L 947 3985 
@@ -1934,8 +1942,8 @@ C 1837 4248 1952 4204 2106 4071
 L 2182 4109 
 L 2182 4601 
 z
-" id="URWPalladioL-Roma-66" transform="scale(0.015625)"/>
-       <path d="M 627 2476 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-74" d="M 627 2476 
 L 627 619 
 C 627 142 838 -64 1331 -64 
 C 1478 -64 1632 -32 1670 13 
@@ -1957,8 +1965,8 @@ L 141 2598
 L 141 2476 
 L 627 2476 
 z
-" id="URWPalladioL-Roma-74" transform="scale(0.015625)"/>
-       <path d="M 262 917 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-73" d="M 262 917 
 C 262 475 243 282 192 26 
 C 525 -83 774 -128 1069 -128 
 C 1907 -128 2502 321 2502 949 
@@ -1980,8 +1988,8 @@ C 787 109 454 333 454 654
 L 454 917 
 L 262 917 
 z
-" id="URWPalladioL-Roma-73" transform="scale(0.015625)"/>
-       <path d="M 2637 2802 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-64" d="M 2637 2802 
 C 2278 2956 2099 3008 1875 3008 
 C 1702 3008 1549 2969 1389 2887 
 L 826 2593 
@@ -2014,8 +2022,8 @@ C 1946 2706 2202 2623 2426 2470
 C 2560 2381 2637 2298 2637 2246 
 L 2637 1424 
 z
-" id="URWPalladioL-Roma-64" transform="scale(0.015625)"/>
-       <path d="M 64 2565 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-70" d="M 64 2565 
 L 301 2565 
 C 557 2565 582 2520 582 2095 
 L 582 -1142 
@@ -2048,8 +2056,8 @@ C 2989 787 2560 256 1984 256
 C 1632 256 1370 372 1120 633 
 L 1120 1964 
 z
-" id="URWPalladioL-Roma-70" transform="scale(0.015625)"/>
-       <path d="M 2074 538 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-61" d="M 2074 538 
 L 2042 -1 
 C 2458 -1 2458 -1 2541 -1 
 C 2573 -1 2733 -1 3014 -1 
@@ -2078,8 +2086,8 @@ C 755 1048 883 1271 1075 1392
 C 1235 1488 1587 1577 2074 1648 
 L 2074 806 
 z
-" id="URWPalladioL-Roma-61" transform="scale(0.015625)"/>
-       <path d="M 1203 2993 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-69" d="M 1203 2993 
 L 1146 3019 
 C 819 2884 486 2793 147 2755 
 L 147 2576 
@@ -2102,8 +2110,8 @@ C 550 3870 717 3704 902 3704
 C 1088 3704 1261 3870 1261 4056 
 C 1261 4236 1088 4416 909 4416 
 z
-" id="URWPalladioL-Roma-69" transform="scale(0.015625)"/>
-       <path d="M 147 4256 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-6c" d="M 147 4256 
 L 506 4256 
 C 621 4256 666 4185 666 3992 
 L 666 651 
@@ -2120,8 +2128,8 @@ L 1146 4673
 C 864 4564 653 4512 147 4435 
 L 147 4256 
 z
-" id="URWPalladioL-Roma-6c" transform="scale(0.015625)"/>
-       <path d="M 1901 564 
+" transform="scale(0.015625)"/>
+       <path id="URWPalladioL-Roma-79" d="M 1901 564 
 C 1760 808 1690 956 1574 1270 
 L 1165 2347 
 C 1126 2456 1101 2552 1101 2618 
@@ -2154,52 +2162,52 @@ C 2611 2751 2701 2694 2701 2604
 C 2701 2559 2688 2501 2662 2437 
 L 1901 564 
 z
-" id="URWPalladioL-Roma-79" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
       </defs>
-      <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-      <use transform="translate(57.982061 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-75"/>
-      <use transform="translate(118.055795 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6d"/>
-      <use transform="translate(206.02547 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-62"/>
-      <use transform="translate(261.117869 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-      <use transform="translate(308.838164 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-      <use transform="translate(373.096661 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6f"/>
-      <use transform="translate(427.492241 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-66"/>
-      <use transform="translate(485.574071 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-      <use transform="translate(518.051159 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-      <use transform="translate(565.771454 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-      <use transform="translate(608.01292 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-      <use transform="translate(640.490008 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-      <use transform="translate(688.210303 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-      <use transform="translate(773.988534 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-70"/>
-      <use transform="translate(833.862928 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-      <use transform="translate(881.583223 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-      <use transform="translate(920.935119 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-      <use transform="translate(963.176586 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6f"/>
-      <use transform="translate(1017.572166 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-      <use transform="translate(1075.554227 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-      <use transform="translate(1142.702293 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-      <use transform="translate(1203.573924 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-      <use transform="translate(1253.387124 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-      <use transform="translate(1282.377486 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-      <use transform="translate(1311.367847 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
+      <use xlink:href="#URWPalladioL-Roma-6e" transform="scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-75" transform="translate(57.982061 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-6d" transform="translate(118.055795 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-62" transform="translate(206.02547 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-65" transform="translate(261.117869 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-72" transform="translate(308.838164 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-6f" transform="translate(373.096661 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-66" transform="translate(427.492241 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-74" transform="translate(485.574071 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-65" transform="translate(518.051159 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-73" transform="translate(565.771454 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-74" transform="translate(608.01292 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-65" transform="translate(640.490008 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-64" transform="translate(688.210303 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-70" transform="translate(773.988534 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-65" transform="translate(833.862928 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-72" transform="translate(881.583223 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-73" transform="translate(920.935119 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-6f" transform="translate(963.176586 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(1017.572166 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-73" transform="translate(1075.554227 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-64" transform="translate(1142.702293 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-61" transform="translate(1203.573924 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-69" transform="translate(1253.387124 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(1282.377486 0)scale(0.996264)"/>
+      <use xlink:href="#URWPalladioL-Roma-79" transform="translate(1311.367847 0)scale(0.996264)"/>
      </g>
     </g>
    </g>
-   <g id="patch_160">
-    <path d="M 59.044249 228.96 
-L 59.044249 7.2 
-" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
-   </g>
    <g id="patch_161">
     <path d="M 59.044249 228.96 
+L 59.044249 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_162">
+    <path d="M 59.044249 228.96 
 L 338.044249 228.96 
-" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_14">
     <!-- Italy -->
     <g transform="translate(351.994249 14.328237)scale(0.1 -0.1)">
      <defs>
-      <path d="M 1382 3663 
+      <path id="URWPalladioL-Roma-49" d="M 1382 3663 
 C 1382 4172 1414 4224 1709 4224 
 L 2016 4224 
 L 2016 4423 
@@ -2219,57 +2227,79 @@ L 1709 205
 C 1414 205 1382 256 1382 766 
 L 1382 3663 
 z
-" id="URWPalladioL-Roma-49" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
      </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-49"/>
-     <use transform="translate(33.574079 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(66.051167 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(115.864367 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(144.854729 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
+     <use xlink:href="#URWPalladioL-Roma-49" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(33.574079 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(66.051167 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(115.864367 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-79" transform="translate(144.854729 0)scale(0.996264)"/>
     </g>
-    <!-- Wednesday, 24 November 2021 -->
+    <!-- Thursday, 25 November 2021 -->
     <g transform="translate(351.994249 25.691533)scale(0.1 -0.1)">
      <defs>
-      <path d="M 4698 -64 
-C 4723 32 4742 122 4749 154 
-C 4768 218 4819 411 4870 584 
-L 5850 4032 
-C 5888 4147 5952 4205 6093 4218 
-L 6298 4237 
-L 6298 4416 
-L 5626 4416 
-C 5562 4416 5562 4416 4954 4416 
-L 4954 4237 
-L 5210 4218 
-C 5434 4199 5504 4167 5510 4063 
-C 5510 4044 5510 4025 5504 4005 
-L 4659 872 
-L 3610 3826 
-C 3469 4211 3450 4262 3398 4480 
-L 3194 4480 
-C 3059 4082 2950 3795 2618 2935 
-L 1824 917 
-L 1184 3795 
-C 1165 3872 1158 3942 1158 4006 
-C 1158 4147 1222 4205 1395 4218 
-L 1664 4237 
-L 1664 4416 
-L 858 4416 
-C 813 4416 544 4416 51 4416 
-L 51 4237 
-L 230 4218 
-C 416 4199 493 4128 550 3897 
-L 1312 597 
-C 1395 231 1395 225 1459 -64 
-L 1779 -64 
-C 1837 141 1888 295 2010 597 
-L 3123 3429 
-L 3923 1256 
-C 4134 687 4154 635 4378 -64 
-L 4698 -64 
+      <path id="URWPalladioL-Roma-54" d="M 1632 4114 
+C 1651 3896 1658 3749 1658 3473 
+L 1658 763 
+C 1658 256 1626 205 1331 205 
+L 1024 205 
+L 1024 0 
+C 1402 0 1626 0 1958 0 
+C 2291 0 2522 0 2899 0 
+L 2899 205 
+L 2592 205 
+C 2298 205 2266 256 2266 763 
+L 2266 3473 
+C 2266 3762 2272 3903 2291 4114 
+L 3283 4114 
+C 3462 4114 3533 4057 3539 3904 
+L 3565 3400 
+L 3763 3400 
+C 3763 3810 3776 4056 3808 4416 
+C 3347 4416 3136 4416 2957 4416 
+C 2707 4416 2522 4416 2426 4416 
+L 1414 4416 
+C 1350 4416 1005 4416 550 4416 
+L 115 4416 
+C 147 4056 160 3810 160 3400 
+L 358 3400 
+L 384 3904 
+C 390 4057 461 4114 640 4114 
+L 1632 4114 
 z
-" id="URWPalladioL-Roma-57" transform="scale(0.015625)"/>
-      <path d="M 1306 789 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-68" d="M 45 4248 
+L 403 4248 
+C 518 4248 563 4177 563 3984 
+L 563 643 
+C 563 237 544 192 326 192 
+L 38 192 
+L 38 -7 
+C 474 -7 646 -7 832 -7 
+C 1018 -7 1190 -7 1626 -7 
+L 1626 192 
+L 1338 192 
+C 1120 192 1101 237 1101 643 
+L 1101 2011 
+C 1101 2300 1523 2616 1914 2616 
+C 2342 2616 2624 2297 2624 1806 
+L 2624 -7 
+C 3014 -7 3021 -7 3130 -7 
+C 3219 -7 3219 -7 3661 -7 
+L 3661 179 
+L 3398 205 
+C 3181 205 3162 244 3162 654 
+L 3162 1892 
+C 3162 2642 2810 3008 2093 3008 
+C 1856 3008 1722 2963 1587 2847 
+L 1101 2424 
+L 1101 4613 
+L 1043 4665 
+C 762 4556 550 4504 45 4427 
+L 45 4248 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-2c" d="M 1306 789 
 C 1133 731 1018 693 678 596 
 C 634 109 474 -308 102 -923 
 L 192 -994 
@@ -2277,8 +2307,35 @@ L 454 -872
 C 973 -199 1216 205 1395 699 
 L 1306 789 
 z
-" id="URWPalladioL-Roma-2c" transform="scale(0.015625)"/>
-      <path d="M 877 4423 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-35" d="M 813 3877 
+C 1638 3877 1997 3877 2765 3877 
+L 2797 3907 
+C 2784 4016 2784 4064 2784 4144 
+C 2784 4229 2784 4277 2797 4386 
+L 2765 4416 
+C 2285 4416 1997 4416 1651 4416 
+C 1299 4416 1018 4416 538 4416 
+L 506 4403 
+C 512 4011 518 3729 518 3523 
+C 518 2977 499 2360 480 2077 
+L 608 2038 
+C 909 2341 1082 2432 1395 2432 
+C 2010 2432 2394 1993 2394 1296 
+C 2394 580 1984 160 1286 160 
+C 941 160 621 277 531 444 
+L 237 973 
+L 83 883 
+C 230 516 307 310 397 27 
+C 576 -71 832 -128 1107 -128 
+C 1536 -128 1990 59 2342 368 
+C 2733 716 2938 1154 2938 1630 
+C 2938 2359 2419 2874 1690 2874 
+C 1382 2874 1152 2791 755 2554 
+L 813 3877 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-4e" d="M 877 4423 
 C 518 4423 461 4423 109 4423 
 L 109 4224 
 L 390 4224 
@@ -2310,8 +2367,8 @@ L 4301 639
 L 1222 4423 
 L 877 4423 
 z
-" id="URWPalladioL-Roma-4e" transform="scale(0.015625)"/>
-      <path d="M 3450 2752 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-76" d="M 3450 2752 
 L 3450 2932 
 C 3066 2932 2950 2932 2848 2932 
 C 2746 2932 2630 2932 2246 2932 
@@ -2339,37 +2396,36 @@ L 2893 2324
 C 3034 2625 3123 2739 3251 2752 
 L 3450 2752 
 z
-" id="URWPalladioL-Roma-76" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
      </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-57"/>
-     <use transform="translate(90.46152 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(138.181815 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(199.053446 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(257.035506 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(304.755802 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(346.997268 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(407.868899 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(457.682099 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(502.015331 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2c"/>
-     <use transform="translate(551.828531 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(601.641732 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(676.361532 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-4e"/>
-     <use transform="translate(759.150439 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6f"/>
-     <use transform="translate(813.546019 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-76"/>
-     <use transform="translate(869.833933 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(917.554228 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6d"/>
-     <use transform="translate(1005.523902 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-62"/>
-     <use transform="translate(1060.616302 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(1108.336597 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(1172.595093 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(1222.408294 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1272.221494 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(1322.034695 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
+     <use xlink:href="#URWPalladioL-Roma-54" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-68" transform="translate(61.069832 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-75" transform="translate(119.051892 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(179.125627 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(218.477523 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(260.71899 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(321.59062 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-79" transform="translate(371.403821 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2c" transform="translate(415.737052 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(465.550253 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(515.363453 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-4e" transform="translate(590.083254 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6f" transform="translate(672.872161 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-76" transform="translate(727.267741 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(783.555654 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6d" transform="translate(831.275949 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-62" transform="translate(919.245624 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(974.338023 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(1022.058318 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1086.316815 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1136.130015 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1185.943216 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1235.756416 0)scale(0.996264)"/>
     </g>
-    <!-- new cases = 12448 -->
+    <!-- new cases = 13764 -->
     <g transform="translate(351.994249 37.054829)scale(0.1 -0.1)">
      <defs>
-      <path d="M 2643 3008 
+      <path id="URWPalladioL-Roma-77" d="M 2643 3008 
 C 2118 1788 2022 1571 1626 677 
 L 1088 2444 
 C 1069 2502 1062 2553 1062 2604 
@@ -2406,8 +2462,8 @@ L 2976 2490
 C 2886 2707 2842 2835 2790 3008 
 L 2643 3008 
 z
-" id="URWPalladioL-Roma-77" transform="scale(0.015625)"/>
-      <path d="M 2554 1994 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-63" d="M 2554 1994 
 C 2554 2289 2586 2552 2643 2783 
 C 2387 2937 2163 3008 1901 3008 
 C 1594 3008 1235 2886 851 2642 
@@ -2423,8 +2479,8 @@ C 1907 2674 2214 2546 2330 2386
 L 2374 1994 
 L 2554 1994 
 z
-" id="URWPalladioL-Roma-63" transform="scale(0.015625)"/>
-      <path d="M 3552 2496 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-3d" d="M 3552 2496 
 L 326 2496 
 L 326 2137 
 L 3552 2137 
@@ -2436,175 +2492,8 @@ L 326 896
 L 3552 896 
 L 3552 1255 
 z
-" id="URWPalladioL-Roma-3d" transform="scale(0.015625)"/>
-     </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(57.982061 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(105.702356 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-77"/>
-     <use transform="translate(213.697049 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(257.930618 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(307.743818 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(349.985285 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(397.70558 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(464.853646 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(550.133259 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(599.946459 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(649.75966 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(699.57286 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(749.386061 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-38"/>
-    </g>
-    <!-- new fatalities = 85 -->
-    <g transform="translate(351.994249 48.418125)scale(0.1 -0.1)">
-     <defs>
-      <path d="M 813 3877 
-C 1638 3877 1997 3877 2765 3877 
-L 2797 3907 
-C 2784 4016 2784 4064 2784 4144 
-C 2784 4229 2784 4277 2797 4386 
-L 2765 4416 
-C 2285 4416 1997 4416 1651 4416 
-C 1299 4416 1018 4416 538 4416 
-L 506 4403 
-C 512 4011 518 3729 518 3523 
-C 518 2977 499 2360 480 2077 
-L 608 2038 
-C 909 2341 1082 2432 1395 2432 
-C 2010 2432 2394 1993 2394 1296 
-C 2394 580 1984 160 1286 160 
-C 941 160 621 277 531 444 
-L 237 973 
-L 83 883 
-C 230 516 307 310 397 27 
-C 576 -71 832 -128 1107 -128 
-C 1536 -128 1990 59 2342 368 
-C 2733 716 2938 1154 2938 1630 
-C 2938 2359 2419 2874 1690 2874 
-C 1382 2874 1152 2791 755 2554 
-L 813 3877 
-z
-" id="URWPalladioL-Roma-35" transform="scale(0.015625)"/>
-     </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(57.982061 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(105.702356 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-77"/>
-     <use transform="translate(213.697049 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-66"/>
-     <use transform="translate(246.872279 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(296.685479 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(329.162567 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(378.975768 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(407.966129 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(436.956491 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(469.433579 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(498.42394 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(546.144235 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(613.292302 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(698.571914 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-38"/>
-     <use transform="translate(748.385115 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-    </g>
-    <!-- current model = $11205.76e^{0.0259t}$ -->
-    <g transform="translate(351.994249 59.781421)scale(0.1 -0.1)">
-     <defs>
-      <path d="M 794 744 
-C 602 744 429 564 429 372 
-C 429 179 602 0 787 0 
-C 992 0 1171 173 1171 372 
-C 1171 564 992 744 794 744 
-z
-" id="URWPalladioL-Roma-2e" transform="scale(0.015625)"/>
-      <path d="M 2099 712 
-L 1946 604 
-C 1606 363 1299 235 1069 235 
-C 768 235 582 471 582 853 
-C 582 1011 602 1183 634 1368 
-L 1158 1494 
-C 1267 1520 1440 1584 1600 1654 
-C 2144 1889 2394 2182 2394 2576 
-C 2394 2874 2176 3072 1856 3072 
-C 1440 3072 730 2633 480 2226 
-C 288 1908 96 1151 96 724 
-C 96 228 378 -64 838 -64 
-C 1203 -64 1562 114 2150 591 
-L 2099 712 
-z
-M 723 1748 
-C 832 2187 960 2461 1146 2626 
-C 1261 2728 1459 2804 1613 2804 
-C 1798 2804 1920 2677 1920 2474 
-C 1920 2193 1696 1895 1363 1735 
-C 1184 1647 954 1577 666 1513 
-L 723 1748 
-z
-" id="URWPalladioL-Ital-65" transform="scale(0.015625)"/>
-      <path d="M 800 2465 
-L 442 671 
-C 435 626 429 615 410 538 
-C 371 361 358 265 358 190 
-C 358 31 429 -64 550 -64 
-C 774 -64 998 62 1498 463 
-L 1594 538 
-L 1696 621 
-L 1632 735 
-L 1344 538 
-C 1158 412 1030 348 960 348 
-C 902 348 870 399 870 474 
-C 870 639 960 1153 1146 2072 
-L 1229 2465 
-L 1914 2465 
-L 1984 2784 
-C 1741 2752 1523 2752 1280 2752 
-C 1382 3348 1453 3659 1568 4001 
-L 1498 4097 
-C 1370 4021 1197 3944 998 3868 
-L 838 2784 
-C 557 2650 390 2580 275 2548 
-L 262 2465 
-L 800 2465 
-z
-" id="URWPalladioL-Ital-74" transform="scale(0.015625)"/>
-     </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(44.233569 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-75"/>
-     <use transform="translate(104.307303 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(143.6592 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(181.218517 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(228.938812 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(286.920873 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(344.304561 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6d"/>
-     <use transform="translate(432.274235 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6f"/>
-     <use transform="translate(486.669815 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(547.541446 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(595.261741 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(649.158703 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(734.438315 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(784.251516 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(834.064716 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(883.877917 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(933.691117 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(983.504318 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(1008.410918 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(1058.224119 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-36"/>
-     <use transform="translate(1109.282619 0)scale(0.996264)" xlink:href="#URWPalladioL-Ital-65"/>
-     <use transform="translate(1149.282689 36.164371)scale(0.757155)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1187.140447 36.164371)scale(0.757155)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(1206.069327 36.164371)scale(0.757155)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1243.927086 36.164371)scale(0.757155)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(1281.784844 36.164371)scale(0.757155)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(1319.642603 36.164371)scale(0.757155)" xlink:href="#URWPalladioL-Roma-39"/>
-     <use transform="translate(1358.446779 36.164371)scale(0.757155)" xlink:href="#URWPalladioL-Ital-74"/>
-    </g>
-    <!-- 7-day incidence = 71345 -->
-    <g transform="translate(351.994249 71.144717)scale(0.1 -0.1)">
-     <defs>
-      <path d="M 1805 1408 
-L 1997 1837 
-L 1965 1869 
-L 282 1869 
-L 109 1440 
-L 141 1408 
-L 1805 1408 
-z
-" id="URWPalladioL-Roma-2d" transform="scale(0.015625)"/>
-      <path d="M 275 3197 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-33" d="M 275 3197 
 L 474 3197 
 L 589 3554 
 C 659 3770 1062 3987 1395 3987 
@@ -2631,125 +2520,264 @@ C 2675 4040 2202 4416 1491 4416
 C 1056 4416 768 4295 461 3989 
 L 275 3197 
 z
-" id="URWPalladioL-Roma-33" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
      </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2d"/>
-     <use transform="translate(82.98843 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(143.860061 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(193.673261 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(273.971539 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(302.9619 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(360.943961 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(405.177529 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(434.167891 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(495.039522 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(542.759817 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(600.741877 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(644.975446 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(717.602341 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(802.881954 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(852.695154 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(902.508355 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
-     <use transform="translate(952.321555 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(1002.134756 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(57.982061 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-77" transform="translate(105.702356 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(213.697049 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(257.930618 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(307.743818 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(349.985285 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(397.70558 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(464.853646 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(550.133259 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(599.946459 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="translate(649.75966 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-36" transform="translate(699.57286 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(749.386061 0)scale(0.996264)"/>
     </g>
-    <!-- 7-day incidence per 100 0000 = 118.2 -->
+    <!-- new fatalities = 71 -->
+    <g transform="translate(351.994249 48.418125)scale(0.1 -0.1)">
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(57.982061 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-77" transform="translate(105.702356 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-66" transform="translate(213.697049 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(246.872279 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(296.685479 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(329.162567 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(378.975768 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(407.966129 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(436.956491 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(469.433579 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(498.42394 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(546.144235 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(613.292302 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="translate(698.571914 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(748.385115 0)scale(0.996264)"/>
+    </g>
+    <!-- current model = $12564.16e^{0.0365t}$ -->
+    <g transform="translate(351.994249 59.781421)scale(0.1 -0.1)">
+     <defs>
+      <path id="URWPalladioL-Roma-2e" d="M 794 744 
+C 602 744 429 564 429 372 
+C 429 179 602 0 787 0 
+C 992 0 1171 173 1171 372 
+C 1171 564 992 744 794 744 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-65" d="M 2099 712 
+L 1946 604 
+C 1606 363 1299 235 1069 235 
+C 768 235 582 471 582 853 
+C 582 1011 602 1183 634 1368 
+L 1158 1494 
+C 1267 1520 1440 1584 1600 1654 
+C 2144 1889 2394 2182 2394 2576 
+C 2394 2874 2176 3072 1856 3072 
+C 1440 3072 730 2633 480 2226 
+C 288 1908 96 1151 96 724 
+C 96 228 378 -64 838 -64 
+C 1203 -64 1562 114 2150 591 
+L 2099 712 
+z
+M 723 1748 
+C 832 2187 960 2461 1146 2626 
+C 1261 2728 1459 2804 1613 2804 
+C 1798 2804 1920 2677 1920 2474 
+C 1920 2193 1696 1895 1363 1735 
+C 1184 1647 954 1577 666 1513 
+L 723 1748 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-74" d="M 800 2465 
+L 442 671 
+C 435 626 429 615 410 538 
+C 371 361 358 265 358 190 
+C 358 31 429 -64 550 -64 
+C 774 -64 998 62 1498 463 
+L 1594 538 
+L 1696 621 
+L 1632 735 
+L 1344 538 
+C 1158 412 1030 348 960 348 
+C 902 348 870 399 870 474 
+C 870 639 960 1153 1146 2072 
+L 1229 2465 
+L 1914 2465 
+L 1984 2784 
+C 1741 2752 1523 2752 1280 2752 
+C 1382 3348 1453 3659 1568 4001 
+L 1498 4097 
+C 1370 4021 1197 3944 998 3868 
+L 838 2784 
+C 557 2650 390 2580 275 2548 
+L 262 2465 
+L 800 2465 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-75" transform="translate(44.233569 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(104.307303 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(143.6592 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(181.218517 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(228.938812 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(286.920873 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6d" transform="translate(344.304561 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6f" transform="translate(432.274235 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(486.669815 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(547.541446 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(595.261741 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(649.158703 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(734.438315 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(784.251516 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(834.064716 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-36" transform="translate(883.877917 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(933.691117 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(983.504318 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1008.410918 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-36" transform="translate(1058.224119 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(1109.282619 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1149.282689 36.164371)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(1187.140447 36.164371)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1206.069327 36.164371)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(1243.927086 36.164371)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-36" transform="translate(1281.784844 36.164371)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(1319.642603 36.164371)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-74" transform="translate(1358.446779 36.164371)scale(0.757155)"/>
+    </g>
+    <!-- 7-day incidence = 74471 -->
+    <g transform="translate(351.994249 71.144717)scale(0.1 -0.1)">
+     <defs>
+      <path id="URWPalladioL-Roma-2d" d="M 1805 1408 
+L 1997 1837 
+L 1965 1869 
+L 282 1869 
+L 109 1440 
+L 141 1408 
+L 1805 1408 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2d" transform="translate(49.8132 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(82.98843 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(143.860061 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-79" transform="translate(193.673261 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(273.971539 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(302.9619 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(360.943961 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(405.177529 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(434.167891 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(495.039522 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(542.759817 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(600.741877 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(644.975446 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(717.602341 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="translate(802.881954 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(852.695154 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(902.508355 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="translate(952.321555 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1002.134756 0)scale(0.996264)"/>
+    </g>
+    <!-- 7-day incidence per 100 0000 = 123.38 -->
     <g transform="translate(351.994249 82.508012)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2d"/>
-     <use transform="translate(82.98843 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(143.860061 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(193.673261 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(273.971539 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(302.9619 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(360.943961 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(405.177529 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(434.167891 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(495.039522 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(542.759817 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(600.741877 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(644.975446 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(717.602341 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-70"/>
-     <use transform="translate(777.476735 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(825.19703 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(889.455527 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(939.268727 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(989.081928 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1063.801729 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1113.614929 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1163.42813 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1213.24133 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1287.961131 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(1373.240743 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1423.053944 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1472.867144 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-38"/>
-     <use transform="translate(1522.680345 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(1547.586945 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2d" transform="translate(49.8132 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(82.98843 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(143.860061 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-79" transform="translate(193.673261 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(273.971539 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(302.9619 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(360.943961 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(405.177529 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(434.167891 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(495.039522 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(542.759817 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(600.741877 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(644.975446 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-70" transform="translate(717.602341 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(777.476735 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(825.19703 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(889.455527 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(939.268727 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(989.081928 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1063.801729 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1113.614929 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1163.42813 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1213.24133 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(1287.961131 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1373.240743 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1423.053944 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(1472.867144 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(1522.680345 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(1547.586945 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-38" transform="translate(1597.400146 0)scale(0.996264)"/>
     </g>
-    <!-- 14-day incidence = 127557 -->
+    <!-- 14-day incidence = 132752 -->
     <g transform="translate(351.994249 93.871308)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2d"/>
-     <use transform="translate(132.801631 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(193.673261 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(243.486462 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(323.784739 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(352.775101 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(410.757161 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(454.99073 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(483.981091 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(544.852722 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(592.573017 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(650.555078 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(694.788647 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(767.415542 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(852.695154 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(902.508355 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(952.321555 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(1002.134756 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(1051.947956 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(1101.761157 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(49.8132 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2d" transform="translate(99.626401 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(132.801631 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(193.673261 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-79" transform="translate(243.486462 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(323.784739 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(352.775101 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(410.757161 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(454.99073 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(483.981091 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(544.852722 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(592.573017 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(650.555078 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(694.788647 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(767.415542 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(852.695154 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(902.508355 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(952.321555 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="translate(1002.134756 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(1051.947956 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1101.761157 0)scale(0.996264)"/>
     </g>
-    <!-- 14-day incidence per 100 000 = 211.33 -->
+    <!-- 14-day incidence per 100 000 = 219.93 -->
     <g transform="translate(351.994249 105.234604)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(49.8132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(99.626401 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2d"/>
-     <use transform="translate(132.801631 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(193.673261 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(243.486462 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(323.784739 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(352.775101 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(410.757161 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(454.99073 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(483.981091 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(544.852722 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(592.573017 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(650.555078 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(694.788647 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(767.415542 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-70"/>
-     <use transform="translate(827.289936 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(875.010231 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(939.268727 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(989.081928 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1038.895128 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1113.614929 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1163.42813 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1213.24133 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1287.961131 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(1373.240743 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(1423.053944 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1472.867144 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1522.680345 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(1547.586945 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
-     <use transform="translate(1597.400146 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(49.8132 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2d" transform="translate(99.626401 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(132.801631 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(193.673261 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-79" transform="translate(243.486462 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(323.784739 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(352.775101 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(410.757161 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(454.99073 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(483.981091 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(544.852722 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(592.573017 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(650.555078 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(694.788647 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-70" transform="translate(767.415542 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(827.289936 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(875.010231 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(939.268727 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(989.081928 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1038.895128 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1113.614929 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1163.42813 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(1213.24133 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(1287.961131 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1373.240743 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1423.053944 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-39" transform="translate(1472.867144 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(1522.680345 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-39" transform="translate(1547.586945 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(1597.400146 0)scale(0.996264)"/>
     </g>
-    <!-- $R_{\text{model-based}}$ = 1.11, [1.05, 1.17] -->
+    <!-- $R_{	ext{model-based}}$ = 1.16, [1.1, 1.22] -->
     <g transform="translate(351.994249 116.5979)scale(0.1 -0.1)">
      <defs>
-      <path d="M 672 4231 
+      <path id="URWPalladioL-Ital-52" d="M 672 4231 
 L 1030 4231 
 C 1184 4231 1254 4180 1254 4065 
 C 1254 3976 1229 3772 1197 3581 
@@ -2789,8 +2817,251 @@ L 1658 4416
 C 1562 4416 1446 4416 691 4416 
 L 672 4231 
 z
-" id="URWPalladioL-Ital-52" transform="scale(0.015625)"/>
-      <path d="M 563 -1152 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-78" d="M 134 566 
+C 134 438 122 357 83 153 
+C 70 77 64 58 58 13 
+C 154 -39 256 -64 333 -64 
+C 544 -64 794 121 992 419 
+L 1478 1164 
+L 1549 725 
+C 1632 184 1779 -64 2010 -64 
+C 2150 -64 2355 44 2560 229 
+L 2874 509 
+L 2816 630 
+C 2586 439 2426 344 2323 344 
+C 2227 344 2144 408 2080 534 
+C 2022 655 1952 890 1920 1075 
+L 1805 1716 
+L 2029 2028 
+C 2330 2441 2502 2587 2701 2587 
+C 2803 2587 2880 2536 2912 2441 
+L 3002 2466 
+L 3098 3008 
+C 3021 3053 2963 3072 2906 3072 
+C 2650 3072 2394 2842 1997 2257 
+L 1760 1907 
+L 1722 2212 
+C 1645 2842 1472 3072 1094 3072 
+C 928 3072 787 3021 730 2938 
+L 358 2409 
+L 467 2346 
+C 659 2562 787 2651 909 2651 
+C 1120 2651 1261 2391 1370 1767 
+L 1440 1373 
+L 1184 977 
+C 909 549 691 344 512 344 
+C 416 344 346 371 333 403 
+L 262 585 
+L 134 566 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-6d" d="M 4672 650 
+L 4506 542 
+C 4320 421 4179 351 4115 351 
+C 4070 351 4032 408 4032 478 
+C 4032 542 4045 600 4077 734 
+L 4557 2631 
+C 4582 2739 4602 2841 4602 2893 
+C 4602 3002 4538 3072 4435 3072 
+C 4250 3072 4006 2957 3616 2682 
+C 3213 2394 2989 2171 2675 1730 
+L 2867 2606 
+C 2893 2733 2912 2829 2912 2874 
+C 2912 2995 2848 3072 2746 3072 
+C 2554 3072 2259 2932 1907 2663 
+C 1626 2445 1498 2311 1082 1749 
+L 1293 2599 
+C 1318 2701 1331 2797 1331 2873 
+C 1331 2995 1274 3072 1184 3072 
+C 1050 3072 806 2938 333 2598 
+L 154 2471 
+L 198 2343 
+L 403 2477 
+C 640 2625 659 2637 704 2637 
+C 774 2637 819 2574 819 2478 
+C 819 2152 557 919 294 6 
+L 314 -64 
+L 749 31 
+L 890 683 
+C 1043 1392 1216 1769 1568 2152 
+C 1837 2446 2125 2637 2304 2637 
+C 2349 2637 2374 2586 2374 2504 
+C 2374 2280 2234 1552 1971 434 
+L 1869 6 
+L 1901 -64 
+L 2342 31 
+L 2477 715 
+C 2579 1232 2797 1711 3078 2025 
+C 3430 2414 3750 2637 3955 2637 
+C 4006 2637 4038 2580 4038 2478 
+C 4038 2324 4019 2235 3878 1679 
+C 3776 1277 3667 894 3603 677 
+C 3546 497 3520 332 3520 192 
+C 3520 31 3590 -64 3712 -64 
+C 3878 -64 4109 69 4736 536 
+L 4672 650 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-6f" d="M 1779 3072 
+C 1504 3072 1203 2963 915 2761 
+C 397 2391 109 1749 109 973 
+C 109 298 397 -64 928 -64 
+C 1280 -64 1664 102 1952 368 
+C 2349 743 2630 1469 2630 2111 
+C 2630 2710 2310 3072 1779 3072 
+z
+M 1542 2830 
+C 1933 2830 2144 2544 2144 2010 
+C 2144 1399 1946 725 1664 388 
+C 1549 255 1382 178 1184 178 
+C 813 178 595 464 595 966 
+C 595 1685 845 2467 1158 2721 
+C 1242 2791 1389 2830 1542 2830 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-64" d="M 3091 4619 
+L 3014 4689 
+C 2682 4524 2451 4466 1990 4422 
+L 1965 4288 
+L 2272 4288 
+C 2426 4288 2490 4242 2490 4133 
+C 2490 4081 2483 4023 2477 3978 
+L 2298 2983 
+C 2106 3040 1933 3072 1773 3072 
+C 1331 3072 730 2614 435 2060 
+C 237 1692 109 1087 109 553 
+C 109 140 205 -64 390 -64 
+C 563 -64 800 44 1018 215 
+C 1363 496 1574 743 2003 1386 
+L 1856 802 
+C 1786 520 1754 315 1754 147 
+C 1754 13 1811 -64 1920 -64 
+C 2029 -64 2182 13 2400 175 
+L 2918 565 
+L 2854 686 
+L 2573 489 
+C 2483 426 2381 381 2323 381 
+C 2272 381 2234 438 2234 528 
+C 2234 580 2240 637 2285 822 
+L 3091 4619 
+z
+M 2157 2239 
+C 2042 1679 1728 1119 1331 743 
+C 1107 534 851 381 730 381 
+C 627 381 570 470 570 629 
+C 570 1431 864 2423 1178 2664 
+C 1261 2728 1382 2760 1555 2760 
+C 1837 2760 2022 2721 2234 2614 
+L 2157 2239 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-6c" d="M 1606 4587 
+L 1530 4657 
+C 1197 4492 966 4434 506 4390 
+L 480 4256 
+L 787 4256 
+C 941 4256 1005 4211 1005 4116 
+C 1005 4097 1005 4065 986 3950 
+L 966 3810 
+C 928 3460 538 1481 442 1164 
+L 352 832 
+C 269 515 230 323 230 191 
+C 230 31 301 -64 422 -64 
+C 589 -64 819 69 1446 536 
+L 1382 651 
+L 1216 543 
+C 1030 422 890 352 826 352 
+C 781 352 742 416 742 479 
+C 742 518 749 562 768 658 
+L 781 714 
+L 1606 4587 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-62" d="M 1504 4619 
+L 1427 4689 
+C 1094 4524 864 4466 403 4422 
+L 378 4288 
+L 685 4288 
+C 838 4288 902 4243 902 4135 
+C 902 4089 896 4019 890 3981 
+L 243 457 
+C 237 438 237 413 237 394 
+C 237 146 544 -64 896 -64 
+C 1133 -64 1459 57 1734 254 
+C 2349 687 2771 1558 2771 2397 
+C 2771 2639 2714 2887 2637 2983 
+C 2592 3040 2509 3072 2413 3072 
+C 2259 3072 2067 3021 1888 2932 
+C 1562 2761 1350 2569 954 2067 
+L 1504 4619 
+z
+M 2061 2703 
+C 2227 2703 2310 2557 2310 2245 
+C 2310 1838 2176 1291 1984 878 
+C 1773 439 1517 235 1171 235 
+C 877 235 717 382 717 649 
+C 717 808 742 985 800 1221 
+C 922 1730 1075 2035 1331 2303 
+C 1542 2518 1875 2703 2061 2703 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-61" d="M 2573 3009 
+L 2509 3066 
+L 2298 2951 
+C 2035 3046 1926 3072 1754 3072 
+C 1574 3072 1446 3040 1274 2957 
+C 877 2761 666 2569 506 2258 
+C 224 1692 26 928 26 432 
+C 26 153 122 -64 243 -64 
+C 384 -64 627 76 870 292 
+C 1139 534 1389 820 1734 1303 
+L 1549 488 
+C 1523 378 1510 263 1510 161 
+C 1510 19 1568 -64 1664 -64 
+C 1811 -64 2074 104 2598 546 
+L 2554 680 
+C 2515 648 2496 635 2470 609 
+C 2266 438 2170 381 2074 381 
+C 2016 381 1978 438 1978 527 
+C 1978 558 1978 578 1984 597 
+L 2573 3009 
+z
+M 2042 2638 
+C 1901 1946 1779 1614 1562 1284 
+C 1197 750 806 381 602 381 
+C 525 381 486 464 486 635 
+C 486 1043 666 1786 890 2295 
+C 1043 2645 1190 2760 1498 2760 
+C 1645 2760 1760 2734 2042 2638 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-73" d="M 198 947 
+C 166 623 128 400 58 108 
+C 301 -7 518 -64 742 -64 
+C 1056 -64 1350 51 1677 305 
+C 2003 559 2138 794 2138 1113 
+C 2138 1456 1933 1640 1459 1729 
+L 1184 1780 
+C 800 1850 678 1959 678 2219 
+C 678 2557 966 2817 1331 2817 
+C 1594 2817 1837 2702 1939 2531 
+L 1939 2181 
+L 2086 2181 
+C 2112 2404 2138 2575 2208 2900 
+C 1958 3021 1779 3072 1568 3072 
+C 1235 3072 845 2881 538 2576 
+C 371 2404 301 2245 301 2016 
+C 301 1660 499 1456 922 1374 
+L 1325 1298 
+C 1606 1247 1709 1132 1709 884 
+C 1709 470 1414 191 960 191 
+C 736 191 538 261 358 413 
+L 358 947 
+L 198 947 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-5b" d="M 563 -1152 
 C 1018 -1152 1030 -1152 1184 -1152 
 C 1338 -1152 1370 -1152 1805 -1152 
 L 1843 -1120 
@@ -2823,8 +3094,8 @@ L 557 -260
 C 557 -696 544 -876 506 -1075 
 L 563 -1152 
 z
-" id="URWPalladioL-Roma-5b" transform="scale(0.015625)"/>
-      <path d="M 1568 4672 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-5d" d="M 1568 4672 
 C 1114 4672 1094 4672 947 4672 
 C 794 4672 762 4672 326 4672 
 L 288 4640 
@@ -2856,91 +3127,203 @@ C 1574 3563 1574 3646 1574 3736
 C 1574 4230 1587 4441 1626 4595 
 L 1568 4672 
 z
-" id="URWPalladioL-Roma-5d" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
      </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Ital-52"/>
-     <use transform="translate(67.695164 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6d"/>
-     <use transform="translate(134.55163 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6f"/>
-     <use transform="translate(175.891965 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(222.154074 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(258.421225 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(280.453746 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-2d"/>
-     <use transform="translate(305.666738 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-62"/>
-     <use transform="translate(347.536658 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(385.394416 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(417.497692 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(453.764843 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(525.431685 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(610.711297 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(660.524498 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(685.431098 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(735.244299 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(785.057499 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2c"/>
-     <use transform="translate(834.8707 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-5b"/>
-     <use transform="translate(868.045929 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(917.85913 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(942.76573 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(992.578931 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(1042.392131 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2c"/>
-     <use transform="translate(1092.205332 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1142.018532 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(1166.925132 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1216.738333 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(1266.551533 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-5d"/>
+     <use xlink:href="#URWPalladioL-Ital-52" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(68.641581 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-78" transform="translate(101.275019 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-74" transform="translate(141.782068 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6d" transform="translate(168.887485 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6f" transform="translate(229.687074 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-64" transform="translate(265.954803 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(305.705411 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6c" transform="translate(337.051669 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#CMSY10-0" transform="translate(362.264144 -20.849366)scale(0.788955)"/>
+     <use xlink:href="#URWPalladioL-Ital-62" transform="translate(425.485803 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-61" transform="translate(463.570008 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-73" transform="translate(499.080551 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(530.426732 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-64" transform="translate(561.77299 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(625.981914 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(711.261526 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(761.074726 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(785.981327 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-36" transform="translate(835.794527 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2c" transform="translate(885.607728 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-5b" transform="translate(935.420928 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(968.596158 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(1018.409358 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1043.315959 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2c" transform="translate(1093.129159 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1142.94236 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(1192.75556 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1217.66216 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1267.475361 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-5d" transform="translate(1317.288561 0)scale(0.996264)"/>
     </g>
-    <!-- $R_{\text{daily}}$ = 1.08 -->
+    <!-- $R_{	ext{daily}}$ = 1.42 -->
     <g transform="translate(351.994249 127.961196)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Ital-52"/>
-     <use transform="translate(67.695164 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(113.957273 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(151.815032 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(173.847553 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(195.880074 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(263.382175 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(348.661787 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(398.474988 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(423.381588 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(473.194788 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-38"/>
-    </g>
-    <!-- $R_{\text{4-day mean}}$ = 0.9 -->
-    <g transform="translate(351.994249 140.738926)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Ital-52"/>
-     <use transform="translate(67.695164 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(105.552922 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-2d"/>
-     <use transform="translate(130.765914 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(177.028024 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(214.885783 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(275.912031 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6d"/>
-     <use transform="translate(342.768497 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(379.035648 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(416.893406 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(486.364184 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(571.643796 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(621.456997 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(646.363597 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-39"/>
-    </g>
-    <!-- $R_{\text{7-day mean}}$ = 1.13 -->
-    <g transform="translate(351.994249 153.516657)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Ital-52"/>
-     <use transform="translate(67.695164 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(105.552922 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-2d"/>
-     <use transform="translate(130.765914 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(177.028024 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(214.885783 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(275.912031 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6d"/>
-     <use transform="translate(342.768497 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(379.035648 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(416.893406 -20.886626)scale(0.757155)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(486.364184 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(571.643796 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(621.456997 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(646.363597 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(696.176797 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
-    </g>
-    <!-- ICU patients = 573 -->
-    <g transform="translate(351.994249 166.294387)scale(0.1 -0.1)">
      <defs>
-      <path d="M 4288 539 
+      <path id="URWPalladioL-Ital-69" d="M 218 2471 
+L 262 2343 
+L 467 2477 
+C 704 2625 723 2637 768 2637 
+C 832 2637 883 2574 883 2490 
+C 883 2445 858 2299 832 2208 
+L 410 676 
+C 358 478 326 306 326 184 
+C 326 31 397 -64 518 -64 
+C 685 -64 915 69 1542 536 
+L 1478 651 
+L 1312 543 
+C 1126 421 979 351 922 351 
+C 877 351 838 415 838 478 
+C 838 542 851 600 883 734 
+L 1376 2676 
+C 1402 2784 1414 2855 1414 2906 
+C 1414 3014 1357 3072 1254 3072 
+C 1114 3072 877 2938 397 2599 
+L 218 2471 
+z
+M 1459 4529 
+C 1274 4529 1088 4318 1088 4102 
+C 1088 3942 1184 3840 1338 3840 
+C 1536 3840 1690 4025 1690 4267 
+C 1690 4420 1594 4529 1459 4529 
+z
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Ital-79" d="M -45 -1123 
+C -51 -1167 -51 -1205 -51 -1237 
+C -51 -1508 186 -1728 474 -1728 
+C 1152 -1728 1856 -943 2234 228 
+L 3136 3014 
+L 3066 3072 
+C 2880 3002 2733 2963 2592 2951 
+L 2368 2111 
+C 2291 1812 2067 1348 1856 1036 
+C 1632 711 1318 432 1178 432 
+C 1101 432 1043 579 1050 737 
+L 1056 820 
+L 1152 2054 
+C 1165 2252 1178 2493 1178 2671 
+C 1178 2957 1133 3072 1024 3072 
+C 941 3072 851 3027 544 2817 
+L 19 2461 
+L 90 2347 
+L 410 2537 
+L 435 2557 
+C 499 2595 544 2614 570 2614 
+C 659 2614 710 2493 710 2284 
+C 710 2277 710 2239 704 2188 
+L 595 642 
+L 589 387 
+C 589 121 704 -64 864 -64 
+C 1101 -64 1638 477 2118 1195 
+L 1805 116 
+C 1478 -1000 1158 -1460 710 -1460 
+C 486 -1460 314 -1291 314 -1072 
+C 314 -1040 320 -990 326 -934 
+L 262 -908 
+L -45 -1123 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#URWPalladioL-Ital-52" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(68.641581 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-78" transform="translate(101.275019 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-74" transform="translate(141.782068 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-64" transform="translate(168.887485 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-61" transform="translate(209.773864 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-69" transform="translate(244.754412 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6c" transform="translate(268.225432 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-79" transform="translate(293.437907 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(357.646831 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(442.926443 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(492.739644 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(517.646244 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(567.459445 0)scale(0.996264)"/>
+    </g>
+    <!-- $R_{	ext{4-day mean}}$ = 1.01 -->
+    <g transform="translate(351.994249 140.576176)scale(0.1 -0.1)">
+     <defs>
+      <path id="URWPalladioL-Ital-6e" d="M 154 2471 
+L 198 2343 
+L 403 2477 
+C 640 2625 659 2637 704 2637 
+C 774 2637 819 2574 819 2478 
+C 819 2152 557 919 294 6 
+L 339 -64 
+C 499 -20 646 18 787 44 
+C 909 849 1043 1264 1338 1705 
+C 1683 2241 2163 2637 2451 2637 
+C 2522 2637 2560 2580 2560 2484 
+C 2560 2369 2541 2235 2490 2031 
+L 2157 677 
+C 2099 440 2074 294 2074 192 
+C 2074 31 2144 -64 2266 -64 
+C 2432 -64 2662 69 3290 536 
+L 3226 651 
+L 3059 543 
+C 2874 421 2733 351 2669 351 
+C 2624 351 2586 408 2586 478 
+C 2586 510 2592 581 2598 607 
+L 3021 2369 
+C 3066 2555 3091 2733 3091 2841 
+C 3091 2989 3021 3072 2893 3072 
+C 2624 3072 2182 2830 1805 2478 
+C 1562 2254 1382 2037 1050 1571 
+L 1293 2599 
+C 1318 2714 1331 2790 1331 2861 
+C 1331 2995 1280 3072 1184 3072 
+C 1050 3072 800 2932 333 2599 
+L 154 2471 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#URWPalladioL-Ital-52" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(68.641581 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-78" transform="translate(101.275019 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-74" transform="translate(141.782068 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(167.941068 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#CMSY10-0" transform="translate(206.745244 -20.849366)scale(0.788955)"/>
+     <use xlink:href="#URWPalladioL-Ital-64" transform="translate(269.966903 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-61" transform="translate(310.853282 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-79" transform="translate(346.363825 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6d" transform="translate(386.114434 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(446.914023 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-61" transform="translate(479.396051 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6e" transform="translate(514.906594 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(583.355644 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(668.635257 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(718.448457 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(743.355058 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(793.168258 0)scale(0.996264)"/>
+    </g>
+    <!-- $R_{	ext{7-day mean}}$ = 1.14 -->
+    <g transform="translate(351.994249 153.191156)scale(0.1 -0.1)">
+     <use xlink:href="#URWPalladioL-Ital-52" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(68.641581 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-78" transform="translate(101.275019 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-74" transform="translate(141.782068 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="translate(167.941068 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#CMSY10-0" transform="translate(206.745244 -20.849366)scale(0.788955)"/>
+     <use xlink:href="#URWPalladioL-Ital-64" transform="translate(269.966903 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-61" transform="translate(310.853282 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-79" transform="translate(346.363825 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6d" transform="translate(386.114434 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-65" transform="translate(446.914023 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-61" transform="translate(479.396051 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Ital-6e" transform="translate(514.906594 -20.849366)scale(0.757155)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(583.355644 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(668.635257 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(718.448457 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(743.355058 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(793.168258 0)scale(0.996264)"/>
+    </g>
+    <!-- ICU patients = 588 -->
+    <g transform="translate(351.994249 165.806136)scale(0.1 -0.1)">
+     <defs>
+      <path id="URWPalladioL-Roma-43" d="M 4288 539 
 L 4230 603 
 C 3834 346 3392 218 2906 218 
 C 1658 218 826 1051 826 2313 
@@ -2956,8 +3339,8 @@ C 141 807 1152 -128 2656 -128
 C 3187 -128 3667 -13 4109 218 
 L 4288 539 
 z
-" id="URWPalladioL-Roma-43" transform="scale(0.015625)"/>
-      <path d="M 4250 3664 
+" transform="scale(0.015625)"/>
+      <path id="URWPalladioL-Roma-55" d="M 4250 3664 
 C 4250 4166 4282 4224 4576 4224 
 L 4858 4224 
 L 4858 4423 
@@ -2985,28 +3368,28 @@ C 3078 -128 3520 7 3808 303
 C 4109 606 4250 1089 4250 1804 
 L 4250 3664 
 z
-" id="URWPalladioL-Roma-55" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
      </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-49"/>
-     <use transform="translate(33.574079 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-43"/>
-     <use transform="translate(104.208872 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-55"/>
-     <use transform="translate(206.623842 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-70"/>
-     <use transform="translate(266.498236 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(316.311436 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(348.788524 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(377.778886 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(425.499181 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(483.481242 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(515.958329 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(583.106396 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(668.386009 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(718.199209 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(768.01241 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
+     <use xlink:href="#URWPalladioL-Roma-49" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-43" transform="translate(33.574079 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-55" transform="translate(104.208872 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-70" transform="translate(206.623842 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(266.498236 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(316.311436 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(348.788524 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(377.778886 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(425.499181 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(483.481242 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(515.958329 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(583.106396 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(668.386009 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-38" transform="translate(718.199209 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-38" transform="translate(768.01241 0)scale(0.996264)"/>
     </g>
-    <!-- ICU corona load = 5.21\% -->
-    <g transform="translate(351.994249 177.657683)scale(0.1 -0.1)">
+    <!-- ICU corona load = 5.35\% -->
+    <g transform="translate(351.994249 177.169432)scale(0.1 -0.1)">
      <defs>
-      <path d="M 1299 4416 
+      <path id="URWPalladioL-Roma-25" d="M 1299 4416 
 C 691 4416 250 3966 250 3340 
 C 250 2768 666 2349 1235 2349 
 C 1830 2349 2272 2806 2272 3425 
@@ -3036,131 +3419,131 @@ L 3686 4544
 L 1344 -128 
 L 1600 -128 
 z
-" id="URWPalladioL-Roma-25" transform="scale(0.015625)"/>
+" transform="scale(0.015625)"/>
      </defs>
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-49"/>
-     <use transform="translate(33.574079 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-43"/>
-     <use transform="translate(104.208872 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-55"/>
-     <use transform="translate(206.623842 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(250.857411 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6f"/>
-     <use transform="translate(305.252991 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(342.812308 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6f"/>
-     <use transform="translate(397.207889 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(455.189949 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(529.90975 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(558.900112 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6f"/>
-     <use transform="translate(613.295692 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(663.108892 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-64"/>
-     <use transform="translate(748.887123 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(834.166736 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(883.979936 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(908.886536 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(958.699737 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1008.512937 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-25"/>
+     <use xlink:href="#URWPalladioL-Roma-49" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-43" transform="translate(33.574079 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-55" transform="translate(104.208872 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-63" transform="translate(206.623842 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6f" transform="translate(250.857411 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(305.252991 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6f" transform="translate(342.812308 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(397.207889 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(455.189949 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(529.90975 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6f" transform="translate(558.900112 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(613.295692 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-64" transform="translate(663.108892 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(748.887123 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(834.166736 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(883.979936 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(908.886536 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(958.699737 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-25" transform="translate(1008.512937 0)scale(0.996264)"/>
     </g>
-    <!-- fatalities = 133415 -->
-    <g transform="translate(351.994249 189.020979)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-66"/>
-     <use transform="translate(33.17523 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(82.98843 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(115.465518 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(165.278719 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(194.26908 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(223.259442 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(255.736529 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(284.726891 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(332.447186 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(399.595253 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(484.874865 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(534.688066 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
-     <use transform="translate(584.501266 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
-     <use transform="translate(634.314467 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(684.127667 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(733.940867 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
+    <!-- fatalities = 133486 -->
+    <g transform="translate(351.994249 188.532728)scale(0.1 -0.1)">
+     <use xlink:href="#URWPalladioL-Roma-66" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(33.17523 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(82.98843 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(115.465518 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(165.278719 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(194.26908 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(223.259442 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(255.736529 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(284.726891 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(332.447186 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(399.595253 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(484.874865 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(534.688066 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-33" transform="translate(584.501266 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(634.314467 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-38" transform="translate(684.127667 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-36" transform="translate(733.940867 0)scale(0.996264)"/>
     </g>
-    <!-- fatalities = 1 in 452.42 -->
-    <g transform="translate(351.994249 200.384275)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-66"/>
-     <use transform="translate(33.17523 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(82.98843 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(115.465518 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(165.278719 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(194.26908 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(223.259442 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(255.736529 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(284.726891 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(332.447186 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(399.595253 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(484.874865 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(559.594666 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(588.585027 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6e"/>
-     <use transform="translate(671.473688 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(721.286889 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-35"/>
-     <use transform="translate(771.100089 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(820.91329 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(845.81989 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-34"/>
-     <use transform="translate(895.63309 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
+    <!-- fatalities = 1 in 452.18 -->
+    <g transform="translate(351.994249 199.896024)scale(0.1 -0.1)">
+     <use xlink:href="#URWPalladioL-Roma-66" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(33.17523 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(82.98843 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(115.465518 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(165.278719 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(194.26908 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(223.259442 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(255.736529 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(284.726891 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(332.447186 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(399.595253 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(484.874865 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(559.594666 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6e" transform="translate(588.585027 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-34" transform="translate(671.473688 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(721.286889 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(771.100089 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(820.91329 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(845.81989 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-38" transform="translate(895.63309 0)scale(0.996264)"/>
     </g>
-    <!-- fatalities per 100 000 = 221.03 -->
-    <g transform="translate(351.994249 211.747571)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-66"/>
-     <use transform="translate(33.17523 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(82.98843 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(115.465518 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(165.278719 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(194.26908 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(223.259442 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(255.736529 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(284.726891 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(332.447186 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(399.595253 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-70"/>
-     <use transform="translate(459.469646 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(507.189941 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(571.448438 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(621.261638 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(671.074839 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(745.79464 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(795.60784 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(845.421041 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(920.140841 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(1005.420454 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(1055.233654 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(1105.046855 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-31"/>
-     <use transform="translate(1154.860055 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(1179.766656 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-30"/>
-     <use transform="translate(1229.579856 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-33"/>
+    <!-- fatalities per 100 000 = 221.15 -->
+    <g transform="translate(351.994249 211.25932)scale(0.1 -0.1)">
+     <use xlink:href="#URWPalladioL-Roma-66" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(33.17523 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(82.98843 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(115.465518 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(165.278719 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(194.26908 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(223.259442 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(255.736529 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(284.726891 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(332.447186 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-70" transform="translate(399.595253 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(459.469646 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(507.189941 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(571.448438 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(621.261638 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(671.074839 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(745.79464 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(795.60784 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-30" transform="translate(845.421041 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(920.140841 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1005.420454 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(1055.233654 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1105.046855 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(1154.860055 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-31" transform="translate(1179.766656 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-35" transform="translate(1229.579856 0)scale(0.996264)"/>
     </g>
     <!-- case fatality rate = 2.78\% -->
-    <g transform="translate(351.994249 223.110866)scale(0.1 -0.1)">
-     <use transform="scale(0.996264)" xlink:href="#URWPalladioL-Roma-63"/>
-     <use transform="translate(44.233569 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(94.046769 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-73"/>
-     <use transform="translate(136.288236 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(208.915131 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-66"/>
-     <use transform="translate(242.090361 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(291.903561 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(324.380649 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(374.193849 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-6c"/>
-     <use transform="translate(403.184211 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-69"/>
-     <use transform="translate(432.174572 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(464.65166 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-79"/>
-     <use transform="translate(544.949937 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-72"/>
-     <use transform="translate(584.301834 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-61"/>
-     <use transform="translate(634.115034 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-74"/>
-     <use transform="translate(666.592122 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-65"/>
-     <use transform="translate(739.219018 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-3d"/>
-     <use transform="translate(824.49863 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-32"/>
-     <use transform="translate(874.311831 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-2e"/>
-     <use transform="translate(899.218431 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-37"/>
-     <use transform="translate(949.031631 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-38"/>
-     <use transform="translate(998.844832 0)scale(0.996264)" xlink:href="#URWPalladioL-Roma-25"/>
+    <g transform="translate(351.994249 222.622616)scale(0.1 -0.1)">
+     <use xlink:href="#URWPalladioL-Roma-63" transform="scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(44.233569 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-73" transform="translate(94.046769 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(136.288236 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-66" transform="translate(208.915131 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(242.090361 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(291.903561 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(324.380649 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-6c" transform="translate(374.193849 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-69" transform="translate(403.184211 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(432.174572 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-79" transform="translate(464.65166 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-72" transform="translate(544.949937 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-61" transform="translate(584.301834 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-74" transform="translate(634.115034 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-65" transform="translate(666.592122 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-3d" transform="translate(739.219018 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-32" transform="translate(824.49863 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-2e" transform="translate(874.311831 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-37" transform="translate(899.218431 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-38" transform="translate(949.031631 0)scale(0.996264)"/>
+     <use xlink:href="#URWPalladioL-Roma-25" transform="translate(998.844832 0)scale(0.996264)"/>
     </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pdfd5bdf5cd">
-   <rect height="221.76" width="279" x="59.044249" y="7.2"/>
+  <clipPath id="p23ef24efd4">
+   <rect x="59.044249" y="7.2" width="279" height="221.76"/>
   </clipPath>
  </defs>
 </svg>
