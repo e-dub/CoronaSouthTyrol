@@ -9,9 +9,9 @@ Mathematical approximation and data for COVID-19 in Onondaga County (Syracuse, N
 
 <img align=center><img width="100%" src="fig/ModelDailyFatalitiesOnondagaCounty(Syracuse,NewYork).svg">
 
-<img align=left><img width="100%" src="fig/hospitalizedOnondagaCounty(Syracuse,NewYork).svg">
+<img align=left><img width="100%" src="fig/numberHospitalizedPeopleOnondagaCounty(Syracuse,NewYork).svg">
 
-<img align=left><img width="100%" src="fig/intensiveOnondagaCounty(Syracuse,NewYork).svg">
+<img align=left><img width="100%" src="fig/numberIntensiveTherapyOnondagaCounty(Syracuse,NewYork).svg">
 
 
 ## Comparison of fatality statistics
@@ -43,7 +43,7 @@ Mathematical approximation and data for COVID-19 in Onondaga County (Syracuse, N
 
 ### Case and testing statistics
 
-<iframe src="html/newPositiveOnondagaCounty(Syracuse,NewYork)All.html"
+<iframe src="html/newPositiveTestedOnondagaCounty(Syracuse,NewYork)All.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -52,7 +52,7 @@ Mathematical approximation and data for COVID-19 in Onondaga County (Syracuse, N
     frameborder="0">
 </iframe>
 
-<iframe src="html/totalPositiveOnondagaCounty(Syracuse,NewYork)All.html"
+<iframe src="html/positiveTestedOnondagaCounty(Syracuse,NewYork)All.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
@@ -73,7 +73,7 @@ Mathematical approximation and data for COVID-19 in Onondaga County (Syracuse, N
     frameborder="0">
 </iframe>
 
-<iframe src="html/intensiveOnondagaCounty(Syracuse,NewYork)All.html"
+<iframe src="html/numberIntensiveTherapyOnondagaCounty(Syracuse,NewYork)All.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
