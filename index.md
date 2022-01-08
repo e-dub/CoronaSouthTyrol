@@ -2,7 +2,6 @@
 
 Mathematical approximation and data for COVID-19 in South Tyrol, Italy. The first section represents the current situation starting mid-summer 2021. The second section includes the entire pandemic with data starting on March 15, 2020.  The mathematical approximation uses the last 14 days as a data basis, projecting the next 28 days. An exponential growth model using a serial interval of four days is assumed. Uncertainty of models is shown as an interval with one standard deviation to both sides of the approximation.
 
-
 ## Data starting mid-summer 2021
 
 <img align=left><img width="100%"  src="fig/ModelDailyCasesSouthTyrol.svg">
@@ -22,18 +21,9 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. The firs
 <img align=left><img width="100%" src="fig/FatalityComparisonSouthTyrol.svg">
 
 
-## Pandemic starting March 15, 2020
+## Data starting March 15, 2020
 
 ### WHO indicators
-
-<iframe src="html/TestPositivitySouthTyrolAll.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="550"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
 
 <iframe src="html/TestingResponseWHOSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
@@ -93,35 +83,8 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. The firs
 </iframe>
 
 
-### Fatality statistics
-<iframe src="html/deceasedSouthTyrolAll.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="550"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-<iframe src="html/newDeceasedSouthTyrolAll.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="550"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
-<iframe src="html/FatalityRateSouthTyrolAll.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="550"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
-
 ### Hospital statistics
+
 <iframe src="html/numberHospitalizedPeopleSouthTyrolAll.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -150,6 +113,34 @@ Mathematical approximation and data for COVID-19 in South Tyrol, Italy. The firs
 </iframe>
 
 
+### Fatality statistics
+
+<iframe src="html/deceasedSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/newDeceasedSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="html/FatalityRateSouthTyrolAll.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="550"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 ## Basis data
 
@@ -160,13 +151,15 @@ Population = 533439 [[2]](#2).
 Corona values in South Tyrol [[1]](#1),[[5]](#5).
 
 
-## Assumptions
+## Appoximation assumptions
 
 Exponential growth.
 
 Serial interval = 4 days [[3]](#3).
 
 Fatality interval (between test and fatality) = 4 weeks.
+
+Calculation of R4 and R7, see [[3]](#3).
 
 Basic reproduction number R<sub>0</sub> = 5.7 [[7]](#7).
 
