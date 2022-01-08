@@ -64,7 +64,7 @@ Mathematical approximation and data for COVID-19 in Onondaga County (Syracuse, N
 
 ### Hospital statistics
 
-<iframe src="html/hospitalizedOnondagaCounty(Syracuse,NewYork)All.html"
+<iframe src="html/numberHospitalizedPeopleOnondagaCounty(Syracuse,NewYork)All.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
