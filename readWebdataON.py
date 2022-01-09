@@ -55,38 +55,58 @@ locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 
 a = 0
-val = 298
+val = 295
 while a == 0:
     url = 'https://datawrapper.dwcdn.net/5Voa2/'+str(val)+'/dataset.csv'
     a = os.system("wget -O datasetNewCases.csv " + url)
-    dataNewCases = pd.read_csv("datasetNewCases.csv",sep='\t')
+    if a == 0:
+        dataNewCases = pd.read_csv("datasetNewCases.csv",sep='\t')
+    val += 1
+a = 0
+val = 307
+while a == 0:
+    url = 'https://datawrapper.dwcdn.net/z3IKX/'+str(val)+'/dataset.csv'
+    a = os.system("wget -O datasetCurrent.csv " + url)
+    if a == 0:
+        dataCurrentCases = pd.read_csv("datasetCurrent.csv") #= pd.read_csv(url)
+    val += 1
+a = 0
+val = 284
+while a == 0:
+    url = 'https://datawrapper.dwcdn.net/HG0nw/'+str(val)+'/dataset.csv'
+    a = os.system("wget -O datasetHospitalizations.csv " + url)
+    if a == 0:
+       dataHospitalizations = pd.read_csv("datasetHospitalizations.csv")
+    val += 1
+a = 0
+val = 38
+while a == 0:
+    # hospitalizations: https://www.datawrapper.de/_/I4IZD
+    url = 'https://datawrapper.dwcdn.net/I4IZD/'+str(val)+'/dataset.csv'
+    a = os.system("wget -O datasetHospitalizations2.csv " + url)
+    if a == 0:
+       dataHospitalizations2 = pd.read_csv("dataset.csv")
+    val += 1
+a = 0
+val = 199
+while a == 0:
+    # hospiti
+    url = 'https://datawrapper.dwcdn.net/NZw22/'+str(val)+'/dataset.csv'
+    a = os.system("wget -O datasetDeaths.csv " + url)
+    if a == 0:
+       dataDeaths = pd.read_csv("datasetDeaths.csv")
+    val += 1
+a = 0
+val = 43
+while a == 0:
+    url = 'https://datawrapper.dwcdn.net/WYgOL/'+str(val)+'/dataset.csv'
+    a = os.system("wget -O datasetActive.csv " + url)
+    if a == 0:
+       dataActive = pd.read_csv("datasetActive.csv", header=None,sep='\t')
     val += 1
 
-url = 'https://datawrapper.dwcdn.net/z3IKX/307/dataset.csv'
-os.system("wget -O datasetCurrent.csv " + url)
-dataCurrentCases = pd.read_csv("datasetCurrent.csv") #= pd.read_csv(url)
 
-url = 'https://datawrapper.dwcdn.net/HG0nw/284/dataset.csv'
-os.system("wget -O datasetHospitalizations.csv " + url)
-dataHospitalizations = pd.read_csv("datasetHospitalizations.csv")
-
-# hospitalizations: https://www.datawrapper.de/_/I4IZD
-url = 'https://datawrapper.dwcdn.net/I4IZD/38/dataset.csv'
-os.system("wget -O datasetHospitalizations2.csv " + url)
-dataHospitalizations2 = pd.read_csv("dataset.csv")
-
-# hospiti
-url = 'https://datawrapper.dwcdn.net/NZw22/199/dataset.csv'
-os.system("wget -O datasetDeaths.csv " + url)
-dataDeaths = pd.read_csv("datasetDeaths.csv")
-
-url = 'https://datawrapper.dwcdn.net/WYgOL/43/dataset.csv'
-os.system("wget -O datasetActive.csv " + url)
-dataActive = pd.read_csv("datasetActive.csv", header=None,sep='\t')
 ####code testing
-
-
-
 # url = 'https://datawrapper.dwcdn.net/F9ZcO/53/dataset.csv'
 
 
@@ -161,7 +181,7 @@ data["positiveTested"] = dataCurrentCases["Cumulative Positives"]
 data["currentlyPositiveTested"] = dataCurrentCases["Cumulative Positives"]
 #data.currentlyPositiveTested
 
-data["cured"] = data.positiveTested - data["deceased"] - data["numberHospitalizedPeople"] - np.array(dataActive[1])[0]
+data["cured"] = data.positiveTested - data["deceased"] - data["numberHospitalizedPeople"] #- np.array(dataActive[1])[0]
 
 StartDate = dt.date(2021, 6, 21)
 mask = (data['date'] >= str(StartDate)) & (
@@ -479,7 +499,14 @@ BokehPlot(
     PrintText=False,
     FileNameAdd='All',
 )
-
+BokehPlot(
+    ST.data,
+    dataSet='numberIntensiveTherapy',
+    name='ICU corona patients',
+    where='Onondaga County (Syracuse, New York)',
+    PrintText=False,
+    FileNameAdd='All',
+)
 # BokehPlot(
 #     ST.data,
 #     dataSet='newNumberTestedPeople',
@@ -493,6 +520,13 @@ BokehPlot(
     ST.data,
     dataSet='newPositiveTested',
     name='daily new corona cases',
+    where='Onondaga County (Syracuse, New York)',
+    FileNameAdd='All',
+)
+BokehPlot(
+    ST.data,
+    dataSet='numberHospitalizedPeople',
+    name='hospitalized corona patients',
     where='Onondaga County (Syracuse, New York)',
     FileNameAdd='All',
 )
@@ -542,6 +576,7 @@ BokehPlot(
     PrintText=False,
     FileNameAdd='All',
 )
+
 
 BokehPlot(
     ST.data,
