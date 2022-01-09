@@ -16,7 +16,7 @@ Mathematical approximation and data for COVID-19 in Onondaga County (Syracuse, N
 
 ## Comparison of fatality statistics
 
-<img align=left><img width="100%" src="fig/FatalityComparisonSouthTyrol.svg">
+<img align=left><img width="100%" src="fig/FatalityComparisonOnondagaCounty(Syracuse,NewYork).svg">
 
 
 ## Data starting March 16, 2020
@@ -159,7 +159,7 @@ Hospitalization rate:\
 ## Sources
 
 <a id="1">[1]</a>
-https://covid19.ongov.net
+<https://covid19.ongov.net>
 
 <a id="2">[2]</a>
 <https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/R-Wert-Erlaeuterung.pdf?__blob=publicationFile>
@@ -171,7 +171,7 @@ https://covid19.ongov.net
 Sanche, S.; Lin, Y. T.; Xu, C.; Romero-Severson, E.; Hengartner, E.; Ke, R. (2020). "High Contagiousness and Rapid Spread of Severe Acute Respiratory Syndrome Coronavirus 2". Emerging Infectious Diseases. 26 (7):1470–1477. doi:10.3201/eid2607.200282.
 
 <a id="4">[4]</a>
-https://datacentral.kitsapsun.com/covid-19-hospital-capacity/new-york/36/onondaga-county/36067/
+<https://datacentral.kitsapsun.com/covid-19-hospital-capacity/new-york/36/onondaga-county/36067/>
 
 <a id="5">[5]</a>
-https://www.census.gov/quickfacts/onondagacountynewyork
+<https://www.census.gov/quickfacts/onondagacountynewyork>

@@ -55,7 +55,7 @@ locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 
 a = 0
-val = 295
+val = 298
 while a == 0:
     url = 'https://datawrapper.dwcdn.net/5Voa2/'+str(val)+'/dataset.csv'
     a = os.system("wget -O datasetNewCases.csv " + url)
@@ -602,21 +602,84 @@ import numpy as np
 STfat1M = round(np.array(ST.data['deceased'])[-1] / ST.pop * 1e6)
 data = covid_daily.overview(as_json=False)
 data = data[['Country,Other', 'Deaths/1M pop']]
-STdata = {'Country,Other': 'Onondaga County (Syracuse, New York)', 'Deaths/1M pop': STfat1M}
+data = data.rename(columns={'Country,Other': 'country'})
+data = data.rename(columns={'Deaths/1M pop': 'Corona deaths per 1M'})
+STdata = {'country': 'Onondaga County', 'Corona deaths per 1M': STfat1M}
 data = data.append(STdata, ignore_index=True)
-dataSorted = data.sort_values(by=['Deaths/1M pop'], ascending=False)
+data = data[data['country'] != 'Gibraltar']
+data = data[data['country'] != 'San Marino']
+data = data[data['country'] != 'Liechtenstein']
+data = data[data['country'] != 'Andorra']
+data = data[data['country'] != 'Aruba']
+data = data[data['country'] != 'Sint Maarten']
+dataSorted = data.sort_values(by=['Corona deaths per 1M'], ascending=False)
 dataSorted.reset_index(drop=True, inplace=True)
+dataSorted.index = np.arange(1, len(dataSorted) + 1)
 print(dataSorted[:60])
 
+nST = dataSorted[dataSorted['country'] == 'Onondaga County'].index[0]
+nI = dataSorted[dataSorted['country'] == 'Italy'].index[0]
+nC = max(25, nST)
 
-if Upload:
-    import git
 
-    # repo = git.Repo("github.com/e-dub/CoronaSouthTyrol")
-    repo = git.Repo('.')
-    if repo.is_dirty(untracked_files=True):
-        print('Changes detected.')
-        repo.git.add(update=True)
-        repo.index.commit('ST' + str(dt.datetime.now()))
-        origin = repo.remote(name='origin')
-        origin.push()
+locale.setlocale(locale.LC_ALL, 'en_US.utf8')
+fig, ax = plt.subplots()
+# plt.rcParams['xtick.major.pad']='0'
+x = (
+    dataSorted.groupby('country')['Corona deaths per 1M']
+    .mean()
+    .sort_values()
+    .tail(nC)
+)
+ax = x.plot(kind='barh', figsize=(8, 6), width=0.8)
+ax.spines['right'].set_visible(False)
+ax.spines['top'].set_visible(False)
+ax.spines['left'].set_visible(False)
+ax.spines['bottom'].set_visible(False)
+# ax.tick_params(bottom="off", top="off",
+#               labelbottom="on", left="off", right="off", labelleft="off")
+vals = ax.get_xticks()
+for tick in vals:
+    ax.axvline(x=tick, linestyle='solid', alpha=0.4, color='white')
+for tick in ax.get_xaxis().get_major_ticks():
+    tick.set_pad(-5)
+ax.xaxis.tick_top()
+ax.xaxis.set_label_position('top')
+ax.xaxis.set_ticks_position('none')
+ax.yaxis.set_ticks_position('none')
+ax.set_ylabel(None)
+ax.set_xlabel('corona fatalities per one million inhabitants', labelpad=10)
+# ax[0].set_color('r')
+ax.get_children()[nC - nST].set_color('tab:red')
+plt.gca().get_yticklabels()[nC - nST].set_color('tab:red')
+ax.text(
+    3500,
+    0,
+    'worst '
+    + str(nC - 1)
+    + ' countries\nand Onondaga County\n'
+    + dt.datetime.today().strftime('%A, %-d %B %Y'),
+)
+
+valueName = 'FatalityComparison'
+FileNameAdd = ''
+plt.savefig(
+    ST.FigFolder
+    + os.sep
+    + valueName
+    + ST.where.replace(' ', '')
+    + FileNameAdd
+    + '.png',
+    bbox_inches='tight',
+    metadata={'Date': None},
+)
+plt.savefig(
+    ST.FigFolder
+    + os.sep
+    + valueName
+    + ST.where.replace(' ', '')
+    + FileNameAdd
+    + '.svg',
+    bbox_inches='tight',
+    metadata={'Date': None},
+)
