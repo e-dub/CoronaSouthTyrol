@@ -55,55 +55,63 @@ locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 
 a = 0
-val = 298
+val = [301, 310, 287, 41, 202, 46]
 while a == 0:
-    url = 'https://datawrapper.dwcdn.net/5Voa2/'+str(val)+'/dataset.csv'
+    #https://datawrapper.dwcdn.net/5Voa2/298/dataset.csv
+    url = 'https://datawrapper.dwcdn.net/5Voa2/'+str(val[0])+'/dataset.csv'
     a = os.system("wget -O datasetNewCases.csv " + url)
-    if a == 0:
+    if a != 0:
+        url = 'https://datawrapper.dwcdn.net/5Voa2/'+str(val[0]-1)+'/dataset.csv'
+        os.system("wget -O datasetNewCases.csv " + url)
         dataNewCases = pd.read_csv("datasetNewCases.csv",sep='\t')
-    val += 1
+    val[0] += 1
 a = 0
-val = 307
 while a == 0:
-    url = 'https://datawrapper.dwcdn.net/z3IKX/'+str(val)+'/dataset.csv'
+    url = 'https://datawrapper.dwcdn.net/z3IKX/'+str(val[1])+'/dataset.csv'
     a = os.system("wget -O datasetCurrent.csv " + url)
-    if a == 0:
+    if a != 0:
+        url = 'https://datawrapper.dwcdn.net/z3IKX/'+str(val[1]-1)+'/dataset.csv'
+        os.system("wget -O datasetCurrent.csv " + url)
         dataCurrentCases = pd.read_csv("datasetCurrent.csv") #= pd.read_csv(url)
-    val += 1
+    val[1] += 1
 a = 0
-val = 284
 while a == 0:
-    url = 'https://datawrapper.dwcdn.net/HG0nw/'+str(val)+'/dataset.csv'
+    url = 'https://datawrapper.dwcdn.net/HG0nw/'+str(val[2])+'/dataset.csv'
     a = os.system("wget -O datasetHospitalizations.csv " + url)
-    if a == 0:
-       dataHospitalizations = pd.read_csv("datasetHospitalizations.csv")
-    val += 1
+    if a != 0:
+        url = 'https://datawrapper.dwcdn.net/HG0nw/'+str(val[2]-1)+'/dataset.csv'
+        os.system("wget -O datasetHospitalizations.csv " + url)
+        dataHospitalizations = pd.read_csv("datasetHospitalizations.csv")
+    val[2] += 1
 a = 0
-val = 38
 while a == 0:
     # hospitalizations: https://www.datawrapper.de/_/I4IZD
-    url = 'https://datawrapper.dwcdn.net/I4IZD/'+str(val)+'/dataset.csv'
+    url = 'https://datawrapper.dwcdn.net/I4IZD/'+str(val[3])+'/dataset.csv'
     a = os.system("wget -O datasetHospitalizations2.csv " + url)
-    if a == 0:
-       dataHospitalizations2 = pd.read_csv("dataset.csv")
-    val += 1
+    if a != 0:
+        url = 'https://datawrapper.dwcdn.net/I4IZD/'+str(val[3]-1)+'/dataset.csv'
+        os.system("wget -O datasetHospitalizations2.csv " + url)
+        dataHospitalizations2 = pd.read_csv("dataset.csv")
+    val[3] += 1
 a = 0
-val = 199
 while a == 0:
     # hospiti
-    url = 'https://datawrapper.dwcdn.net/NZw22/'+str(val)+'/dataset.csv'
+    url = 'https://datawrapper.dwcdn.net/NZw22/'+str(val[4])+'/dataset.csv'
     a = os.system("wget -O datasetDeaths.csv " + url)
-    if a == 0:
-       dataDeaths = pd.read_csv("datasetDeaths.csv")
-    val += 1
+    if a != 0:
+        url = 'https://datawrapper.dwcdn.net/NZw22/'+str(val[4]-1)+'/dataset.csv'
+        os.system("wget -O datasetDeaths.csv " + url)
+        dataDeaths = pd.read_csv("datasetDeaths.csv")
+    val[4] += 1
 a = 0
-val = 43
 while a == 0:
-    url = 'https://datawrapper.dwcdn.net/WYgOL/'+str(val)+'/dataset.csv'
+    url = 'https://datawrapper.dwcdn.net/WYgOL/'+str(val[5])+'/dataset.csv'
     a = os.system("wget -O datasetActive.csv " + url)
-    if a == 0:
-       dataActive = pd.read_csv("datasetActive.csv", header=None,sep='\t')
-    val += 1
+    if a != 0:
+        url = 'https://datawrapper.dwcdn.net/WYgOL/'+str(val[5]-1)+'/dataset.csv'
+        os.system("wget -O datasetActive.csv " + url)
+        dataActive = pd.read_csv("datasetActive.csv", header=None,sep='\t')
+    val[5] += 1
 
 
 ####code testing
@@ -176,7 +184,7 @@ data["numberHospitalizedPeople"] = dataHospitalizations["Total Hospitalized"]
 data["newPositiveTested"] = dataCurrentCases["New Positives"]
 data["positiveTested"] = dataCurrentCases["Cumulative Positives"]
 
-
+data = data.dropna()
 #not correct!!!!
 data["currentlyPositiveTested"] = dataCurrentCases["Cumulative Positives"]
 #data.currentlyPositiveTested
@@ -683,3 +691,5 @@ plt.savefig(
     bbox_inches='tight',
     metadata={'Date': None},
 )
+
+print(val)
