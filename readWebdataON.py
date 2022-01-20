@@ -15,15 +15,6 @@ import numpy as np
 import seaborn as sns
 from Model_COVID19_new import covid
 import os
-
-
-import pandas as pd
-import matplotlib.pyplot as plt
-import datetime as dt
-import numpy as np
-import seaborn as sns
-from Model_COVID19_new import covid
-import os
 import locale
 
 Upload=0
@@ -55,7 +46,8 @@ locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 
 a = 0
-val = [301, 310, 287, 41, 202, 46]
+val = [306, 315, 292, 46, 207, 51]
+#[301, 310, 287, 41, 202, 46]
 while a == 0:
     #https://datawrapper.dwcdn.net/5Voa2/298/dataset.csv
     url = 'https://datawrapper.dwcdn.net/5Voa2/'+str(val[0])+'/dataset.csv'
@@ -271,7 +263,7 @@ ST.yICU = np.array(data.numberIntensiveTherapy)[-1]
 
 ST.CaseLines = True
 ST.calc()
-ST.ApproxPlot()
+ST.ApproxPlot(FirstModel=False)
 ST.FatalityPlot()
 
 
