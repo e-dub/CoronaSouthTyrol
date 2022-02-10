@@ -46,7 +46,8 @@ locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 
 a = 0
-val = [306, 315, 292, 46, 207, 51]
+val = [322, 331, 308, 62, 224, 67]
+#[306, 315, 292, 46, 207, 51]
 #[301, 310, 287, 41, 202, 46]
 while a == 0:
     #https://datawrapper.dwcdn.net/5Voa2/298/dataset.csv
