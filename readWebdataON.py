@@ -46,7 +46,8 @@ locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 
 a = 0
-val =[306, 315, 292, 46, 207, 51] # [322, 331, 308, 62, 224, 67]
+
+val =[329, 338, 315,  70, 231,  70] #[306, 315, 292, 46, 207, 51] # [322, 331, 308, 62, 224, 67]
 #
 #[301, 310, 287, 41, 202, 46]
 while a == 0:
@@ -562,38 +563,44 @@ BokehPlot(
 #     FileNameAdd='All',
 # )
 
-BokehPlot(
-    ST.data,
-    dataSet='CaseIncidence',
-    name='case incidence (WHO): new cases over 7 days per 100000',
-    where='Onondaga County (Syracuse, New York)',
-    AddLine=[20, 50, 150],
-    AddLineLabel=[
-        'low incidence of community transmission',
-        'moderate incidence of community transmission',
-        'high incidence of community transmission',
-    ],
-    AddLineColor=['yellow', 'orange', 'red'],
-    PrintText=False,
-    FileNameAdd='All',
-)
+try:
+    BokehPlot(
+        ST.data,
+        dataSet='CaseIncidence',
+        name='case incidence (WHO): new cases over 7 days per 100000',
+        where='Onondaga County (Syracuse, New York)',
+        AddLine=[20, 50, 150],
+        AddLineLabel=[
+            'low incidence of community transmission',
+            'moderate incidence of community transmission',
+            'high incidence of community transmission',
+        ],
+        AddLineColor=['yellow', 'orange', 'red'],
+        PrintText=False,
+        FileNameAdd='All',
+    )
+except:
+    pass
 
+try:
+    BokehPlot(
+        ST.data,
+        dataSet='MortalityWHO',
+        name='mortality (WHO): fatalities over 7 days per 100000',
+        where='Onondaga County (Syracuse, New York)',
+        AddLine=[1, 2, 5],
+        AddLineLabel=[
+            'low incidence of community transmission',
+            'moderate incidence of community transmission',
+            'high incidence of community transmission',
+        ],
+        AddLineColor=['yellow', 'orange', 'red'],
+        PrintText=False,
+        FileNameAdd='All',
+    )
+except:
+    pass
 
-BokehPlot(
-    ST.data,
-    dataSet='MortalityWHO',
-    name='mortality (WHO): fatalities over 7 days per 100000',
-    where='Onondaga County (Syracuse, New York)',
-    AddLine=[1, 2, 5],
-    AddLineLabel=[
-        'low incidence of community transmission',
-        'moderate incidence of community transmission',
-        'high incidence of community transmission',
-    ],
-    AddLineColor=['yellow', 'orange', 'red'],
-    PrintText=False,
-    FileNameAdd='All',
-)
 # https://towardsdatascience.com/interactive-bar-charts-with-bokeh-7230e5653ba3
 
 import covid_daily
@@ -685,4 +692,4 @@ plt.savefig(
     metadata={'Date': None},
 )
 
-print(val)
+print(np.array(val)-1)
